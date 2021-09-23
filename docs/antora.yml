@@ -1,5 +1,5 @@
 name: refinedrd
-version: '1.0.0'
+version: 'latest'
 title: 'Refined R&D'
 nav:
 - modules/ROOT/nav.adoc
