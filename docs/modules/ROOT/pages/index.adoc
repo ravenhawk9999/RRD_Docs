@@ -1,16 +1,18 @@
-= Refined Power
+= Refined R&D
 
-image::https://raw.githubusercontent.com/mrhid6/SF_Mod_RefinedPower/master/Images/RP_SMR_004-1.png[200,200]
+We a team of 4 developers and have currently created 2 public mods and 2 hidden mods for Satisfactory.
 
+Are aim for the mods is to add new and exciting content to the game adding complexity and challenges. 
 
-== Introduction:
-Ficsit pioneers can now have refined power production that can provide a variety of power generators either to power your outposts or power your main factories.
+**Public Mods:**
 
-== Multiplayer support:
+* RefinedPower
+* FicsitFarming
 
-Refined Power has always had multiplayer support as a high priority for any update and this will not change in the slightest. To make sure that playing with your friends is possible and to have a fun experience! While multiplayer support isn't 100% finished yet, we do hope we can fix these little bugs in the future!
+**Hidden Mods:**
 
-image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
+* ModularUI
+* RefinedRDLib
 
 == Team:
 
@@ -19,5 +21,3 @@ image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.p
 * **Tom** - 3D Artist
 * **Vasillo** 3D Artist
 * **Deantendo** - User Interfaces
-
-

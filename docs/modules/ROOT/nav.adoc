@@ -1,4 +1,3 @@
-* xref:about.adoc[About]
 * xref:rp/index.adoc[Refined Power]
 ** xref:rp/schematics.adoc[Schematics]
 ** xref:rp/buildings/index.adoc[Buildings]
