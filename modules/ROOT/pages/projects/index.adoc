@@ -1,0 +1,8 @@
+= Active Projects
+
+We frequently work on large scale projects for adding new content and ideas along side fixing bugs and balance changes.
+
+Listed below are the current projects and the percent of completion.
+
+* Project Big Cake - 45%
+* Project Icarus - 5%

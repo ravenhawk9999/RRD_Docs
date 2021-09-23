@@ -1,5 +1,5 @@
 name: refinedpower
-version: '0.0.1'
-title: RefinedPower
+version: '3.0.2'
+title: 'Refined Power'
 nav:
 - modules/ROOT/nav.adoc

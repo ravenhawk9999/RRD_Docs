@@ -1,0 +1,11 @@
+= Project Icarus
+
+== Introduction / Design
+Project Icarus is the replacement to the Dyson Sphere. Currently the dyson sphere is lets say a bit boring and has no real challenge.
+
+We have designed Icarus to add more activities and more challenges to add the players experense.
+
+== Progress
+* UI - 0%
+* Models - 0%
+* Code - 5%

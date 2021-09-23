@@ -1,0 +1,17 @@
+= Change Log - V3.0.2
+
+== Bug Fixes:
+* Element 65 Nodes no longer invalidate themselves
+* Wind turbines now save there distance from the ground
+* Distance from ground limit has been increased to 500M
+* Water Turbine missing Animated Turbine Model.
+* Wind Turbine Mk3 missing Animated Turbine Model.
+* General UI Bug fixes.
+
+== Features:
+* New dependent mod RefinedRDLib (RRDL).
+* Resource node spawner using new RRDL subsystem.
+* Solar Panel Mk2 model updated.
+* Solar Panel Mk2 Buffed to 100MW.
+* Solar Panel Mk2 internal battery features removed.
+* Solar Panel UI Updated.
