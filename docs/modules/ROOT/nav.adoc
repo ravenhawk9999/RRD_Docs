@@ -24,6 +24,8 @@
 **** xref:rp/buildings/misc/Dyson-Sphere.adoc[Dyson Sphere]
 **** xref:rp/buildings/misc/Automated-Biomass-Generator.adoc[Automated Biomass Generator]
 ** xref:rp/projects/index.adoc[Projects]
+*** xref:rp/projects/mp.adoc[Modular Power]
+*** xref:rp/projects/windsolar.adoc[Wind & Solar]
 *** xref:rp/projects/pbc.adoc[Project Big Cake]
 *** xref:rp/projects/icarus.adoc[Project Icarus]
 ** xref:rp/items/index.adoc[Items]

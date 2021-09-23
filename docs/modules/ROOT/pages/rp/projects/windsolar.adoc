@@ -1,0 +1,9 @@
+= Wind & Solar
+
+== High Level Plan
+The plan for this project is to update wind and solar functionality.
+
+== Progress
+
+* Wind Turbines - 70%
+* Solar - 90%
