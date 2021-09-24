@@ -1,1 +1,8 @@
 = Buildings
+
+There are 3 Categoryies of Building in the Buildmenu
+1. Farming
+2. Farming Platforms
+3. Farming Plots (Contains Plots and Modules)
+
+For more information visit the dedicated Pages for each Category
