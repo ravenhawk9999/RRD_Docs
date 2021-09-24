@@ -34,6 +34,7 @@
 *** xref:rp/changelogs/CL_v3.0.2.adoc[v3.0.2]
 
 * xref:ff/index.adoc[Ficsit Farming]
+** xref:ff/howtoff/index.adoc[Getting Started]
 ** xref:ff/schematics/index.adoc[Schematics]
 *** xref:ff/schematics/tier2_1.adoc[Basic Farmer - Buildings]
 *** xref:ff/schematics/tier2_2.adoc[Basic Farmer - Crops]
