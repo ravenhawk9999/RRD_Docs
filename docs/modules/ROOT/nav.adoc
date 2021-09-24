@@ -49,5 +49,8 @@
 *** xref:ff/schematics/tier4_4.adoc[Fertilised Crops 1]
 *** xref:ff/schematics/tier4_5.adoc[Fertilised Crops 2]
 ** xref:ff/buildings/index.adoc[Buildings]
+*** xref:ff/buildings/FarmingPlatform.adoc[Platforms]
+*** xref:ff/buildings/FarmingPlots.adoc[Plots]
+*** xref:ff/buildings/FarmingModules.adoc[Modules]
 ** xref:ff/items/index.adoc[Items]
 ** xref:ff/changelogs/index.adoc[Change Logs]

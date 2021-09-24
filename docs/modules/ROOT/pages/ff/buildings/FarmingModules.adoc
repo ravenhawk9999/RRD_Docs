@@ -12,7 +12,7 @@ The harvested item will be moved to the Platform Storage.
 
 [TIP]
 ====
- Can be placed on every Plot
+Can be placed on every Plot
 ====
 
 == Irrigation Modue
@@ -25,7 +25,7 @@ Sprays given Fluid to the Seed
 
 [TIP]
 ====
- Can be placed on every Plot
+Can be placed on every Plot
 ====
 
 == Greenhouse Module
@@ -38,5 +38,5 @@ So in other Word it reduces the Time between Production Ticks.
 
 [TIP]
 ====
- Can be placed on every Plot except Tree Plots
+Can be placed on every Plot except Tree Plots
 ====

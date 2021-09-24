@@ -4,8 +4,8 @@ The Farming Platform is the Base element where Plots are placed.
 It can be upgraded with Modules to add more features.
 The Platform can Temporary Store In- and Outputs from the Plots. (Plots have their own Storage like any other Building)
 
-## Farming Platform MK1
-* Powerusage: 4 MW
+== Farming Platform MK1
+* Power Usage: 4 MW
 * Plot Slots: 1
 * Conveyor Input: 1
 * Conveyor Output: 1
@@ -13,8 +13,8 @@ The Platform can Temporary Store In- and Outputs from the Plots. (Plots have the
 * Fluid Output: 0
 * Space in Foundations (rounded): 2x3
 
-## Farming Platform MK2
-* Powerusage: 16 MW
+== Farming Platform MK2
+* Power Usage: 16 MW
 * Plot Slots: 4
 * Conveyor Input: 1
 * Conveyor Output: 1
@@ -22,8 +22,8 @@ The Platform can Temporary Store In- and Outputs from the Plots. (Plots have the
 * Fluid Output: 0
 * Space in Foundations (rounded): 4x5
 
-## Farming Platform MK1
-* Powerusage: 28 MW
+== Farming Platform MK3
+* Power Usage: 28 MW
 * Plot Slots: 9
 * Conveyor Input: 1
 * Conveyor Output: 1
