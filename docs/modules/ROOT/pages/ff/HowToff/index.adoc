@@ -1,0 +1,25 @@
+= How to Farming - The Basics
+
+To start your farming career you need two inital steps.
+
+## Find and Dig for Jar of Dirt
+Like normal Ressources you need to find a Ressources Node.
+A Miner can autocollect this for you.
+To get the first Seeds the easiest way is to extract Seeds from Dirt in the Workbench.
+Later you can use the Seed Extractor
+
+## Build you first Farm
+With Seeds in your hand bulild a "Farming Platform" first.
+After that Place a Plot on it.
+Select the Crop you want to produce and place the seed in it.
+
+## Collect your first Crops and close the circle
+After a while you can harvest the first Crops from the Plot congratulation.
+You will notice that the Jar of Dirt gives you Random Seeds.
+If you want just one Seed convert the Crop that you have into new Seed.
+After a while you can split this pocess so some seeds go back into the circle and some Crops into your Storage.
+
+
+= How to Doggo - The Basics
+
+- Work in Process -

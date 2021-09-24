@@ -1,0 +1,28 @@
+= Additional Buildings
+
+## Seed Extractor
+Powerusage: 20 MW
+The Seed Extractor can convert Jar of Dird or a Crop into Seeds.
+Important on this Step is that you gain multiple Seeds OR a higher Count of Seed from an Item.
+A convertion list can be viewed in the Seed Extractor Menu of the Building.
+
+Has 1x Input and 1x Output.
+
+## Doggo House
+- Documentation in Work -
+
+Doggos need Water and Food
+
+Powerusage: 16 MW
+2x Conveyor Inputs
+1x Fluid Input
+1x Conveyor Output
+
+## Cooking Hub
+Powerusage: 28 MW
+Convert Crops into eatable things... Like it Cook things... :-P
+
+## Composter
+Powerusage: 16 MW
+Converts any Biomass into Fertilizer.
+A Recipe Info List can be viewed in the Menu of the Building.

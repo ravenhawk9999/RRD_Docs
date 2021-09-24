@@ -1,0 +1,33 @@
+= Farming Modules
+
+Farming Modules can be placed after any Plot is placed but not every Plot accept every Module.
+Modules add additional Features to the Plot.
+Also some Seeds or Seeds Version need a specific Module to be able to grow.
+
+# Harvester Module
+** Powerusage: 12 MW
+
+Like the Name says already this Module harveste a full Plot.
+The harvested item will be moved to the Platform Storage.
+
+-> Can be placed on every Plot
+
+# Irrigation Modue
+** Powerusage: 2 MW
+
+Sprays given Fluid to the Seed
+
+* Mycelia Seed need this Module to grow
+* Any Enriched or Fertilized Seed need this Module to grow
+
+-> Can be placed on every Plot
+
+# Greenhouse Module
+** Powerusage: 30 MW
+
+Proivides better Habitat Conditions and speed up growing.
+So in other Word it reduces the Time between Production Ticks.
+
+* Mycelia Seed need this Module to grow
+
+-> You can not place this Module on Tree Plots.

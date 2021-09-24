@@ -1,0 +1,26 @@
+= Farming Plots
+
+Farming Plots need to be placed on a Farming Platform.
+
+Tip: All Platforms can grow the Base Version.
+MK2 and MK3 Platforms enables Plots to grow "Enriched" and "Fertilized" Versions additional.
+But you need to proivide Water or Fertilizer on the Platform.
+
+## Crop Plot
+* Carrot Seed
+* Corn Seed
+* Cotton Seed
+* Pumpkin Seed
+* Potato Seed
+* Yosse Berry Seed
+* Wheat Seed
+
+## Flower Plot
+* Flower Seed
+
+## Mycelia Plot
+* Mycelia Seed
+
+## Tree Plot
+* Apple Seed
+* Banana Seed

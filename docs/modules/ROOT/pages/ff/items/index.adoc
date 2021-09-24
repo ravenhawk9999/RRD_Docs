@@ -1,18 +1,31 @@
 = Items
 
 ## Resources:
-### Element 65
+### Scanner upgrade Jar of Dirt
 
 ## Parts:
-### Photovolic Cells
-### Carbon Dust
-### Carbon Mesh
-### Reinforced Carbon-Carbon
+### Carrot Seed
+### Carrot
+### Flower
+### Flower Seed
+### Potato
+### Potato Seed
+### Wheat
+### Wheat Seed
+### Myzelium
+### Myzelium Seed
+### Apple
+### Apple Seed
+### Banana
+### Banana Seed
+### Corn
+### Corn Seed
+### Cotton
+### Cotton Seed
+### Pumpkin
+### Pumpkin Seed
+### Yosse Berry
+### Yosse Berry Seed
 
 ## Fluids:
-### Refined E65
-### Unfiltered Deterium
-### Liquid Deterium
-### Co2
-### High Pressure Steam
-### Low Pressure Steam
+### Fertilised Fluid
