@@ -5,5 +5,5 @@ Project Big Cake is the replacement to the Arc Reactors. It has been designed to
 
 == Progress
 * UI - 80%
-* Models - 40%
-* Code - 20%
+* Models - 50%
+* Code - 30%
