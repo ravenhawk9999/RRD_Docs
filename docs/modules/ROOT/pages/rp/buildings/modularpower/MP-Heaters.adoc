@@ -7,55 +7,50 @@ Once the heater reaches 100c the attached Boiler will then start producing Steam
 
 The heater will produce Co2 which will need to be handled wither by venting through a chimney or turned into Carbon Dust, if the Co2 is not resolved and fills the heater, it will stop producing heat and slowly cool.
 
-## Building Usage Rates:
-|===
-| Building Name   | Item Tested       | Consumption | Production
-
-| Biomass Heater  | Soild Biofuel     | ~36/Min     | ~48/Min    
-
-| Coal Heater     | Coal              | ~20/Min     | ~75/Min    
-
-| Solution Heater | Fuel              | ~14/Min     | ~98/Min    
-
-| Nuclear Heater  | Nuclear Fuel Rods | ~0.5/Min    | ~10/Min    
-|===
-
-## Building Cost:
-TBD
-
 ## Variants:
 
 ### Biomass Heater
 The biomass heater can produce 500c heat and can be fed with the following items:
 
-* Fabric
-* Leaves
-* Mycelia
-* Vines
-* Flower Petals
-* Wood
-* Biomass
-* Alien Organs
-* Alien Carapace
-* Solid Biofuel
-* Packaged Liquid Biofuel
+|===
+| Item   | Heat / Cycle | Consumption / Min
+| Leaves|0.5|120
+| Wood|1|30
+| Mycelia|2|60
+| Carapace|10|10
+| Fabric|5|60
+| Organs|10|10
+| Biomass|20|25
+| BioFuel|30|10
+| PackagedBioFuel|35|4
+| Flower|0.25|60
+|===
 
 ### Coal Heater
 The coal heater can produce 500c heat and can be fed with the following items:
 
-* Coal
-* Compacted Coal
-* Petrolium Coke
+|===
+| Item   | Heat / Cycle | Consumption / Min
+|Coal|10|15
+|Petrolium Coke|6|25
+|Compacted Coal|15|6
+|===
 
 ### Solution Heater
 The Solution heater can produce 500c heat and can be fed with the following items:
-
-* Fuel
-* Liquid Biofuel
-* Turbo Fuel
+|===
+| Item   | Heat / Cycle | Consumption / Min
+| Bio Fuel|25|20
+| Fuel|30|25
+| Turbo Fuel|35|8
+|===
 
 ### Nuclear Heater
 The Nuclear heater can produce 1024c heat and can be fed with the following items:
 
-* Nuclear Fuel Rods
-* Advanced Reactor Cores
+|===
+| Item   | Heat / Cycle | Consumption / Min | Waste
+| Nuclear Fuel Rods|1200|0.4|Nuc Waste (Vanilla)
+| Plutonium|3000|0.4|Plutonium Waste (Vanilla)
+| Advanced Reactor Cores|2500|0.2|Advanced Reactor Casing
+|===

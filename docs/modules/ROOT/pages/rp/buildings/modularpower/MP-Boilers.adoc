@@ -23,9 +23,7 @@ Boiler MK2 :
 ## Building Usage Rates:
 
 |===
-| Building Name  | Item Tested | Consumption | Production  
-
-| Boiler Mk1     | Water       | ~44/Min     | ~72/Min     
-
-| Boiler Mk2     | Water       | ~77/Min     | ~123/Min    
+| Tier|Default Water Consume|Steam at 500c|Steam at 750c|Steam at 1050c
+| 1|40|60|70|80
+| 2|80|120|140|160
 |===
