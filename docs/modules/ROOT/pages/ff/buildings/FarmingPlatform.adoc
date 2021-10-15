@@ -12,6 +12,10 @@ The Platform can Temporary Store In- and Outputs from the Plots. (Plots have the
 * Fluid Input: 0
 * Fluid Output: 0
 * Space in Foundations (rounded): 2x3
+* Build Cost:
+** 18x Iron Rod
+** 10x Cable
+** 16x Reinforced Iron Plate
 
 == Farming Platform MK2
 * Power Usage: 16 MW
@@ -21,6 +25,10 @@ The Platform can Temporary Store In- and Outputs from the Plots. (Plots have the
 * Fluid Input: 4
 * Fluid Output: 0
 * Space in Foundations (rounded): 4x5
+* Build Cost:
+** 20x Cable
+** 24x Concrete
+** 20x Modular Frame
 
 == Farming Platform MK3
 * Power Usage: 28 MW
@@ -30,3 +38,7 @@ The Platform can Temporary Store In- and Outputs from the Plots. (Plots have the
 * Fluid Input: 4
 * Fluid Output: 0
 * Space in Foundations (rounded): 6x7
+* Build Cost:
+** 100x Cable
+** 40x Plastic
+** 15x Heavy Modular Frame

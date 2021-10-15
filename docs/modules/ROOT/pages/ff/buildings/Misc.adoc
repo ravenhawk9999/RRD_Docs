@@ -1,28 +1,62 @@
 = Additional Buildings
 
 ## Seed Extractor
-Powerusage: 20 MW
 The Seed Extractor can convert Jar of Dird or a Crop into Seeds.
 Important on this Step is that you gain multiple Seeds OR a higher Count of Seed from an Item.
 A convertion list can be viewed in the Seed Extractor Menu of the Building.
 
-Has 1x Input and 1x Output.
+* Power Usage: 20 MW
+* Conveyor Input: 1
+* Conveyor Output: 1
+* Fluid Input: 0
+* Fluid Output: 0
+* Space in Foundations : 1x4,5
+* Build Cost:
+** 20x Modular Frame
+** 18x Rotor
+** 25x Cable
 
 ## Doggo House
-- Documentation in Work -
+Doggos need Water and Food in return you get a some Random Items back from what they found.
+To collect Doggos for the House you need to Pet them and pickup them with an Empty Cage.
 
-Doggos need Water and Food
-
-Powerusage: 16 MW
-2x Conveyor Inputs
-1x Fluid Input
-1x Conveyor Output
+* Power Usage: 16 MW
+* Conveyor Input: 2
+* Conveyor Output: 1
+* Fluid Input: 1
+* Fluid Output: 0
+* Space in Foundations : 4,2x6,2
+* Build Cost:
+** 16x Modular Frame
+** 20x Concrete
+** 15x Jar of Dirt
 
 ## Cooking Hub
-Powerusage: 28 MW
-Convert Crops into eatable things... Like it Cook things... :-P
+Convert Crops into edible things... Like it Cook things... :-P
+In general it takes Crops and Water for this Process
+
+* Power Usage: 28 MW
+* Conveyor Input: 2
+* Conveyor Output: 1
+* Fluid Input: 1
+* Fluid Output: 1
+* Space in Foundations : 1,5x2
+* Build Cost:
+** 20x Steel Beam
+** 20x Cable
+** 12x Encased Industrial Beam
 
 ## Composter
-Powerusage: 16 MW
-Converts any Biomass into Fertilizer.
+Converts any Biomass and Water into Fertilizer.
 A Recipe Info List can be viewed in the Menu of the Building.
+
+* Power Usage: 16 MW
+* Conveyor Input: 1
+* Conveyor Output: 0
+* Fluid Input: 1
+* Fluid Output: 1
+* Space in Foundations : 1x2,5
+* Build Cost:
+** 12x Modular Frame
+** 20x Cable
+** 12x Rotor
