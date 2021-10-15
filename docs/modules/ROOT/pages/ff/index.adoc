@@ -5,6 +5,7 @@ image::https://raw.githubusercontent.com/mrhid6/SF_Mod_FarmingMod/master/Images/
 [NOTE]
 ====
 Ficsit Farming Documention is in the process of being updated!
+Warning the Documentation contains minor Spoilers !
 ====
 
 == Introduction:
@@ -17,3 +18,16 @@ Ficsit Farming will have 100% multiplayer support. we aim to fully support multi
 image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
 image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_no.png[]
 
+
+== What this Mod do:
+
+This Mod adds the following:
+* New Buildings
+* New Items/Fluids
+* Milestones
+* New Game mechanic for Doggos
+
+What this mod not add:
+* MAM research
+* Vehicles
+* A Cow

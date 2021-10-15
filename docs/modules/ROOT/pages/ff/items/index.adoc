@@ -1,31 +1,43 @@
 = Items
 
 ## Resources:
-### Scanner upgrade Jar of Dirt
-
-## Parts:
-### Carrot Seed
-### Carrot
-### Flower
-### Flower Seed
-### Potato
-### Potato Seed
-### Wheat
-### Wheat Seed
-### Myzelium
-### Myzelium Seed
-### Apple
-### Apple Seed
-### Banana
-### Banana Seed
-### Corn
-### Corn Seed
-### Cotton
-### Cotton Seed
-### Pumpkin
-### Pumpkin Seed
-### Yosse Berry
-### Yosse Berry Seed
+* Jar of Dirt
 
 ## Fluids:
-### Fertilised Fluid
+* Fertilised Fluid
+
+## Parts:
+* Carrot Seed
+* Carrot
+* Flower
+* Flower Seed
+* Potato
+* Potato Seed
+* Wheat
+* Wheat Seed
+* Myzelium
+* Myzelium Seed
+* Apple
+* Apple Seed
+* Banana
+* Banana Seed
+* Corn
+* Corn Seed
+* Cotton
+* Cotton Seed
+* Pumpkin
+* Pumpkin Seed
+* Yosse Berry
+* Yosse Berry Seed
+
+## Products
+* Yosse Muffin
+* Doggo Chow
+* Corn Muffin
+* Bread
+* Wheat Muffin
+* Banana Bread
+* Apple Pie
+* Banana Pie
+* Berry Pie
+* Pumpkin Pie

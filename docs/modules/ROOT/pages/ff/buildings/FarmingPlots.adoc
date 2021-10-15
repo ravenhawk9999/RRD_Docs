@@ -27,3 +27,10 @@ Farming Plots need to be placed on a Farming Platform.
 == Tree Plot
 * Apple Seed
 * Banana Seed
+
+[NOTE]
+====
+All Plots Cost
+* 40x Jar of Dirt
+* 8x Reinforced Iron Plate
+====

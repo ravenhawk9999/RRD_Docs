@@ -5,9 +5,7 @@ Modules add additional Features to the Plot.
 Also some Seeds or Seeds Version need a specific Module to be able to grow.
 
 == Harvester Module
-** Power Usage: 12 MW
-
-Like the Name says already this Module harvester a full Plot.
+Like the Name says already this Module harvest a full Plot.
 The harvested item will be moved to the Platform Storage.
 
 [TIP]
@@ -15,11 +13,14 @@ The harvested item will be moved to the Platform Storage.
 Can be placed on every Plot
 ====
 
+** Power Usage: 12 MW
+** 20x Cable
+** 4x Motor
+** 20x Modular Frame
+** 16x Encased Industrial Beam
+
 == Irrigation Modue
-** Power Usage: 2 MW
-
 Sprays given Fluid to the Seed
-
 * Mycelia Seed need this Module to grow
 * Any Enriched or Fertilized Seed need this Module to grow
 
@@ -28,15 +29,20 @@ Sprays given Fluid to the Seed
 Can be placed on every Plot
 ====
 
-== Greenhouse Module
-** Power Usage: 30 MW
+** Power Usage: 2 MW
+** 16x Copper Sheet
+** 8x Steel Pipe
 
+== Greenhouse Module
 Provides better Habitat Conditions and speed up growing.
 So in other Word it reduces the Time between Production Ticks.
-
 * Mycelia Seed need this Module to grow
 
 [TIP]
 ====
 Can be placed on every Plot except Tree Plots
 ====
+
+** Power Usage: 30 MW
+** 50x Iron Plate
+** 12x Modular Frame

@@ -1,25 +1,51 @@
 = How to Farming - The Basics
 
-To start your farming career you need two initial steps.
+To start your farming career you need only some small initial steps.
+
+== Get the Equipment
+Head up to the HUB. You will find several new Milestones.
+Get at least the "Basic Farmer - Building" Milestone.
 
 == Find and Dig for Jar of Dirt
-Like normal Resources you need to find a Resources Node.
-A Miner can auto collect this for you.
+Like any other normal Resource you need to find a Resources Node.
+A (Mobile-)Miner can auto collect this for you.
 To get the first Seeds the easiest way is to extract Seeds from Dirt in the Workbench.
-Later you can use the Seed Extractor
+Later you can use the Seed Extractor to automate this process.
 
-== Build you first Farm
+== Build your first Farm
 With Seeds in your hand build a "Farming Platform" first.
 After that Place a Plot on it.
 Select the Crop you want to produce and place the seed in it.
+When the Platform is powered the Plot starts the growing process.
 
-== Collect your first Crops and close the circle
-After a while you can harvest the first Crops from the Plot congratulation.
-You will notice that the Jar of Dirt gives you Random Seeds.
-If you want just one Seed convert the Crop that you have into new Seed.
+== Collect your first Crops
+After a while you can harvest the first Crops from the Plot. 
+- Congratulation! -
+
+== Close the circle or build a line ?
+
+At this Point you start wondering how to automate the process.
+The Keypoint of this is getting the "Seed Extractor".
+When you unlocked this you have 2 Options to continue.
+
+1. Build a Circle (most Popular)
+Crops will give you only back (multiple) Seeds from this specific Crop.
 After a while you can split this process so some seeds go back into the circle and some Crops into your Storage.
+Pro: Easy setup everywhere
+Contra: Lower Final Output
 
+2. Build a Line
+The alternativ is to use the Dirt Nodes to create Seeds with the "Seed Extractor".
+Tricky Part on this is. That you get Random Seeds from the Extractor using Dirt.
+So you will need to build at least Smart Splitter.
+Pro: Highest Output
+Contra: Complex to Setup and "bound" to a Node.
 
-== How to Doggo - The Basics
+Now you know the basics about farming.
 
-- Work in Process -
+= How to Doggo - The Basics
+You like Doggos and want to have them arround you anytime but safe ?
+Perfect.
+To start you need to unlock "Rancher" Milestone in the HUB.
+Build the Doggo House and provide Food and Water. Yes do this first thats very important!
+Craft a Doggo Cage. Now i wish you luck...
