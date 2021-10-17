@@ -19,6 +19,5 @@ Are aim for the mods is to add new and exciting content to the game adding compl
 * **Mrhid6** - Author, C++ Dev, 3D Artist
 * **Kyrium** - C++ Dev
 * **I'm_a_chicken29** - Community Manager
-* **Tom** - Moderator
 * **Vasillo** 3D Artist
 * **Deantendo** - UI/UX/Sound/Icons
