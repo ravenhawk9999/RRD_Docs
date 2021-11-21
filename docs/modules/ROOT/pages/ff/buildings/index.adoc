@@ -1,8 +1,10 @@
 = Buildings
 
-The Mod adds and Additional Tab in the Buildmenu called "Fiscit Farming".
-There are 3 Categories of Building in this Tab.
+This mod adds an additional tab in the build menu called "Fiscit Farming".
+There are 3 categories of building in this tab.
+
 * Farming
 * Farming Platforms
 * Farming Plots (Contains Plots and Modules)
-For more information visit the dedicated Pages for each Category
+
+For more information visit the dedicated pages for each category

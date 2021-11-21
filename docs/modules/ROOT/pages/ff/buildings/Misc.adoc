@@ -17,30 +17,30 @@ A convertion list can be viewed in the Seed Extractor Menu of the Building.
 ** 25x Cable
 
 ## Doggo House
-Doggos need Water and Food in return you get a some Random Items back from what they found.
-To collect Doggos for the House you need to Pet them and pickup them with an Empty Cage.
+Doggos need Water and Food. In return, you get some random items back from what they found.
+To collect Doggos for the House you need to pet them, then pick them up with an Empty Cage.
 
 * Power Usage: 16 MW
 * Conveyor Input: 2
 * Conveyor Output: 1
 * Fluid Input: 1
 * Fluid Output: 0
-* Space in Foundations : 4,2x6,2
+* Space in Foundations : 4.2x6.2
 * Build Cost:
 ** 16x Modular Frame
 ** 20x Concrete
 ** 15x Jar of Dirt
 
 ## Cooking Hub
-Convert Crops into edible things... Like it Cook things... :-P
-In general it takes Crops and Water for this Process
+Convert crops into edible things. Surprisingly, it cooks things :-P
+In general it takes crops and water for this process
 
 * Power Usage: 28 MW
 * Conveyor Input: 2
 * Conveyor Output: 1
 * Fluid Input: 1
 * Fluid Output: 1
-* Space in Foundations : 1,5x2
+* Space in Foundations : 1.5x2
 * Build Cost:
 ** 20x Steel Beam
 ** 20x Cable
@@ -48,14 +48,14 @@ In general it takes Crops and Water for this Process
 
 ## Composter
 Converts any Biomass and Water into Fertilizer.
-A Recipe Info List can be viewed in the Menu of the Building.
+The Recipe Info List can be viewed in the menu of the building.
 
 * Power Usage: 16 MW
 * Conveyor Input: 1
 * Conveyor Output: 0
 * Fluid Input: 1
 * Fluid Output: 1
-* Space in Foundations : 1x2,5
+* Space in Foundations : 1x2.5
 * Build Cost:
 ** 12x Modular Frame
 ** 20x Cable

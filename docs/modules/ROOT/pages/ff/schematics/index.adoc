@@ -11,7 +11,7 @@
 ** Farming Platform MK1
 ** Crop Plot
 ** Flower Plot
-** Scanner upgrade Jar of Dirt
+** Scanner upgrade: Jar of Dirt
 
 ## Basic Farmer - Crops
 * Milestone Cost
@@ -102,7 +102,7 @@
 ** Gewebe
 ** Yosse Mudffin
 ** Cooking Hub
-** Doogo Chow
+** Doggo Chow
 ** Corn Muffin
 ** Bread
 ** Wheat Muffin

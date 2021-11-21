@@ -1,8 +1,8 @@
 = Active Projects
 
-We frequently work on large scale projects for adding new content and ideas along side fixing bugs and balance changes.
+We frequently work on large scale projects for adding new content and ideas alongside our regular bugfixes and balance changes.
 
-Listed below are the current projects and the percent of completion.
+Listed below are the current projects and their respective percent of completion.
 
 * Modular Power - 95%
 * Wind & Solar - 80%
