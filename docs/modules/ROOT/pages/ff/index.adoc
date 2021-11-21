@@ -4,16 +4,16 @@ image::https://raw.githubusercontent.com/mrhid6/SF_Mod_FarmingMod/master/Images/
 
 [NOTE]
 ====
-Ficsit Farming Documention is in the process of being updated!
-Warning the Documentation contains minor Spoilers !
+Ficsit Farming Documentation is in the process of being updated!
+Warning: contains minor spoilers!
 ====
 
 == Introduction:
-Ficsit pioneers can get their hand dirty with the Ficsit Farming Mod, Automating the production of crops and cooked foods. Look after their friendly doggos in the Doggo house
+Ficsit Pioneers can get their hands dirty with the Ficsit Farming Mod, automating the production of crops and cooked foods and looking after their friendly doggos in the Doggo house!
 
 == Multiplayer support:
 
-Ficsit Farming will have 100% multiplayer support. we aim to fully support multiplayer removing any bugs within the first month of release of Ficsit Farming.
+Ficsit Farming will have 100% multiplayer support. We aim to fully support multiplayer, removing any bugs within the first month of release of Ficsit Farming.
 
 image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
 image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_no.png[]
@@ -21,13 +21,13 @@ image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_n
 
 == What this Mod do:
 
-This Mod adds the following:
+This mod adds the following:
 * New Buildings
 * New Items/Fluids
 * Milestones
-* New Game mechanic for Doggos
+* New game mechanics for Doggos
 
-What this mod not add:
+What this mod will not add:
 * MAM research
 * Vehicles
 * A Cow

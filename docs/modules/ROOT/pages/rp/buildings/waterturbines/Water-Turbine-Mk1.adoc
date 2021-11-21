@@ -2,9 +2,9 @@
 
 ## Building Information
 
-Mk.1 water turbines can only be placed on dedicated nodes placed all around the world that can be found by the scanner! There are in total 413 Water turbine nodes all around the world. Water turbines Generate 8, 20, 50MW depending on the node it is placed on based on water speed
+Mk.1 water turbines can only be placed on dedicated nodes placed all around the world that can be found by the scanner! There are in total 413 Water turbine nodes throughout the map. Water turbines generate 8, 20, or 50MW depending on the water speed of the node it is placed on.
 
-Some sploosh power for your factory with no item input!
+Some sploosh power for your factory without item input!
 
 ## Building cost
 50 steel pipes & 150 copper wire

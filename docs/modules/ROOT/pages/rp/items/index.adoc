@@ -4,15 +4,15 @@
 ### Element 65
 
 ## Parts:
-### Photovolic Cells
+### Photovoltaic Cells
 ### Carbon Dust
 ### Carbon Mesh
 ### Reinforced Carbon-Carbon
 
 ## Fluids:
 ### Refined E65
-### Unfiltered Deterium
-### Liquid Deterium
-### Co2
+### Unfiltered Deuterium
+### Liquid Deuterium
+### CO₂
 ### High Pressure Steam
 ### Low Pressure Steam

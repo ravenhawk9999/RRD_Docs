@@ -4,7 +4,7 @@
 
 Micro Reactor is capable of generating 1GW of power with 100 Reactor cores. With no waste!
 
-Reactor must be filled with at least 70 Core before the reactor can heat up, Only when the heat is at its max is when it will produce power.
+**Reactor must be filled with at least 70 cores before the reactor can heat up.** It will only produce power when the temperature reaches the maximum.
 
 ## Building Cost
 

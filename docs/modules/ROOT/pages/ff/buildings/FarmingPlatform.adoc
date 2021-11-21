@@ -1,8 +1,8 @@
 = Farming Platform
 
-The Farming Platform is the Base element where Plots are placed.
+The Farming Platform is the base element where plots are placed.
 It can be upgraded with Modules to add more features.
-The Platform can Temporary Store In- and Outputs from the Plots. (Plots have their own Storage like any other Building)
+The Platform can temporarily store inputs and outputs from the plots. (Plots have their own storage like any other Building)
 
 == Farming Platform MK1
 * Power Usage: 4 MW

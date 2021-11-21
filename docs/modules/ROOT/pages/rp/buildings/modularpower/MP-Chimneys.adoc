@@ -1,7 +1,7 @@
 = Modular Power Chimneys
 
 ## Building Information:
-Modular Power Chimneys are used to vent Co2 and Steam from heaters and turbines.
+Modular Power Chimneys are used to vent CO₂ and Steam from heaters and turbines.
 
 ## Building Usage Rates:
 
@@ -10,12 +10,12 @@ Modular Power Chimneys are used to vent Co2 and Steam from heaters and turbines.
 
 | Steam Cooler   | 80/Min     | N/A        
 
-| Co2 Cooler     | 60/Min     | N/A        
+| CO₂ Cooler     | 60/Min     | N/A        
 |===
 
 ## Variants:
 
-### Co2 Chimney:
+### CO₂ Chimney:
 TDB
 
 ### Steam Chimney:

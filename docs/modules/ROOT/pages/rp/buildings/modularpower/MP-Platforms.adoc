@@ -1,7 +1,7 @@
 = Modular Power Platforms
 
 ## Building Information:
-These buildings are used for the new Modular Power buildings, there are currently 3 different variants of platforms. Boiler, Converter, & Cooler platforms.
+These buildings are the bases for all Modular Power buildings, and must be placed before anything else. There are currently 3 different variants: Boiler, Converter, & Cooler platforms.
 
 ## Variants:
 
