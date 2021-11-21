@@ -1,15 +1,25 @@
 = Modular Power Generators
 
 ## Building Information:
-Generators are built on the Converter Platform and can only function if attached to a Turbine.
+Generators are built on the Converter Platform and can only function if attached to a Turbine. Power output will fluctuate based on the RPM of the attached Turbine, Only producing it's maxium output once it reaches the required RPM.
 
 ## Building Cost:
-TBD
+**LV:** 
+15 Reinforced Iron Plate, 8 Modular Frame, 50 Wire
+
+**MV:**
+4 Heavy Modular Frame, 20 Circuit Board, 100 Quickwire
+
+**HV:**
+5 Supercomputer, 20 Heavy Modular Frame, 200 Quickwire, 15 High-Speed Connector
 
 
 ## Variants:
 ### LV
+Low Voltage Generators produce 175 MW of power once reaching at least 10,000 RPM.
 
 ### MV
+Medium Voltage Generators produce 300 MW of power once reaching at least 17,000 RPM.
 
 ### HV
+High Voltage Generators produce 500 MW of power once reaching at least 25,000 RPM.
