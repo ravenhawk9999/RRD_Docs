@@ -42,7 +42,7 @@ The Solution heater can produce 750℃ heat and can be fed with the following it
 | Item   | Heat / Cycle | Consumption / Min | CO₂  / Min
 | Biofuel|25|20 m³|24.0 m³
 | Fuel|30|25 m³|16.0 m³
-| Turbofuel|35|8 m³|37.54 m³
+| Turbofuel|35|8 m³|30.0 m³
 |===
 
 ### Nuclear Heater
@@ -50,7 +50,7 @@ The Nuclear heater can produce 1050℃ heat and can be fed with the following it
 
 |===
 | Item   | Heat / Cycle | Consumption / Min | Waste | Waste  / Min
-| Nuclear Fuel Rods|1200|0.4|Nuc Waste (Vanilla)| 10.0
-| Plutonium|3000|0.2|Plutonium Waste (Vanilla)| 1.0
-| Advanced Reactor Cores|2500|0.4|Advanced Reactor Casing| 0.4
+| Nuclear Fuel Rods|1050|0.133|Nuc Waste (Vanilla)| 3.333
+| Plutonium|1050|0.067|Plutonium Waste (Vanilla)| 0.333
+| Advanced Reactor Cores|1050|0.133|Advanced Reactor Casing| 0.133
 |===
