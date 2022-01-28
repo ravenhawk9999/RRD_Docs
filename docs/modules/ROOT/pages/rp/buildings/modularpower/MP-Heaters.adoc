@@ -3,9 +3,9 @@
 ## Building Information:
 Heaters are used to burn fuel to make heat. Currently there are 4 variants: Biomass, Coal, Solution & Nuclear.
 
-Once the heater reaches 100℃ the attached Boiler will then start producing Steam, the temperature will reach 1050℃ for the nuclear heater. 750c for the solution heater and 500℃ for the rest.
+Once the heater reaches 100℃ the attached Boiler will then start producing Steam, the temperature will reach 1050℃ for the nuclear heater. 750℃ for the solution heater and 500℃ for the rest.
 
-The heater will produce CO₂, which will need to be handled by either venting through a chimney or accumulating into Carbon Dust. If the Co2 is not resolved and fills the heater, it will stop producing heat and slowly cool.
+The heater will produce CO₂, which will need to be handled by either venting through a chimney or accumulating into Carbon Dust. If the CO₂ is not resolved and fills the heater, it will stop producing heat and slowly cool.
 
 ## Variants:
 
