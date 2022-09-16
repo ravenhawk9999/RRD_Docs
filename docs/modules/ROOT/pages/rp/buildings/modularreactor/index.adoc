@@ -1,6 +1,6 @@
-= Modular Reactors
+== Modular Reactors
 
-## Design Concept:
+== Design Concept:
 Adding modularity to Reactors
 
 * Foundation

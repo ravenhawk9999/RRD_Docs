@@ -42,7 +42,7 @@ Con: Complex to Setup and "bound" to a Node.
 
 Now you know the basics about farming.
 
-= How to Doggo - The Basics
+== How to Doggo - The Basics
 You like Doggos and want to have them around you all the time but also keep them safe? Perfect.
 To start you need to unlock "Rancher" Milestone in the HUB.
 Build the Doggo House and provide Food and Water. Yes do this first, it's very important!
