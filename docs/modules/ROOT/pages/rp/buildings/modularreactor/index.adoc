@@ -1,4 +1,4 @@
-== Modular Reactors
+= Modular Reactors
 
 == Design Concept:
 Adding modularity to Reactors

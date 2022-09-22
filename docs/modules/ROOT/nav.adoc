@@ -57,3 +57,5 @@
 *** xref:ff/buildings/Misc.adoc[Misc]
 ** xref:ff/items/index.adoc[Items]
 ** xref:ff/changelogs/index.adoc[Change Logs]
+
+* xref:ssm/index.adoc[SSM]
