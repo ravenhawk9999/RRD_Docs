@@ -5,6 +5,32 @@
 * Place Reactor Chambers on Support Ring
 * Add Support Ring Modules (Cooling, Sheilding, IO Ports)
 
+== What each component does
+
+=== Foundation
+
+The foundation is the base for the reactor stack, Reactor Support Rings can be attached to foundation allowing stacking of max 5 Support Rings.
+
+=== Support Ring
+
+The Reactor Support Ring is the brains of the reactor. The Support ring hold information about what is attached to it (Reactor Modules).
+
+=== Reactor Chamber Module
+
+Reactor Chambers are snapped to the Support Ring, 10 in total for the reactor to function.
+
+=== Reactor Cooling Module
+
+Reactor Cooling is snapped to the Support Ring, Allowing for better cooling of the reactor.
+
+=== Reactor Shielding Module
+
+Reactor Shielding is snapped to the Support Ring, Allowing for better thermal dissipation.
+
+=== Reactor IO Module
+
+IO is snapped to the Support Ring, Allowing for automation of fuel, water and reactor coolant.
+
 == How to Start the reactors
 
 * Open the foundation UI
