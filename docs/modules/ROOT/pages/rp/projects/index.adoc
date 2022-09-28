@@ -7,4 +7,4 @@ Listed below are the current projects and their respective percent of completion
 * Modular Power - 100%
 * Wind & Solar - 100%
 * Project Big Cake - 95%
-* Project Icarus - 5%
+* Project Icarus - 78%
