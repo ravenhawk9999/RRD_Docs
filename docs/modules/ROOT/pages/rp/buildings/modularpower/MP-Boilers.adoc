@@ -10,16 +10,20 @@ Boilers are placed on top of Heaters and will turn Water into High Pressure Stea
 * 12 Reinforced Iron Plate
 * 4  Modular Frame
 
+|===
+| Tier|500℃|750℃|2000℃
+| Water Consume|45 m³/min|45 m³/min|45 m³/min
+| Steam Production|60 m³/min|60 m³/min|60 m³/min
+|===
+
+
 ### Boiler MK2:
 * 100 Copper Sheet
 * 20  Reinforced Iron Plate
 * 4   Heavy Modular Frame
 
-
-## Building Usage Rates:
-
 |===
-| Tier|Default Water Consume|Steam at 500℃|Steam at 750℃|Steam at 1050℃
-| 1|40|60|70|80
-| 2|80|120|140|160
+| Tier|500℃|750℃|2000℃
+| Water Consume|45 m³/min|90 m³/min|450 m³/min
+| Steam Production|60 m³/min|120 m³/min|600 m³/min
 |===

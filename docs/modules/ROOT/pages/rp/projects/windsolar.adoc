@@ -5,5 +5,5 @@ The plan for this project is to update wind and solar functionality.
 
 == Progress
 
-* Wind Turbines - 70%
-* Solar - 90%
+* 100% (Done)
+* 100% (Done)

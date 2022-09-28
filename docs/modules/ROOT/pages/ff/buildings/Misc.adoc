@@ -1,6 +1,12 @@
 = Additional Buildings
 
 ## Seed Extractor
+
+[WARNING]
+====
+This Building is outdated! we reworked how it works.
+====
+
 The Seed Extractor can convert Jar of Dird or a Crop into Seeds.
 Important on this Step is that you gain multiple Seeds OR a higher Count of Seed from an Item.
 A convertion list can be viewed in the Seed Extractor Menu of the Building.
@@ -47,6 +53,12 @@ In general it takes crops and water for this process
 ** 12x Encased Industrial Beam
 
 ## Composter
+
+[WARNING]
+====
+This Building is outdated! we reworked how it works.
+====
+
 Converts any Biomass and Water into Fertilizer.
 The Recipe Info List can be viewed in the menu of the building.
 

@@ -6,4 +6,4 @@ This project is for updating usage rates on all modular power buildings to have 
 
 == Progress
 
-* Code - 95%
+* 100% (DONE)

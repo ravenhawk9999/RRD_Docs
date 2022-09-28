@@ -4,7 +4,7 @@ We frequently work on large scale projects for adding new content and ideas alon
 
 Listed below are the current projects and their respective percent of completion.
 
-* Modular Power - 95%
-* Wind & Solar - 80%
-* Project Big Cake - 53%
+* Modular Power - 100%
+* Wind & Solar - 100%
+* Project Big Cake - 95%
 * Project Icarus - 5%

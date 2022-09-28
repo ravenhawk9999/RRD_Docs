@@ -16,7 +16,7 @@ Generators are built on the Converter Platform and can only function if attached
 
 ## Variants:
 ### LV
-Low Voltage Generators produce 175 MW of power once reaching at least 10,000 RPM.
+Low Voltage Generators produce 150 MW of power once reaching at least 10,000 RPM.
 
 ### MV
 Medium Voltage Generators produce 300 MW of power once reaching at least 17,000 RPM.

@@ -1,5 +1,10 @@
 = Solar Panel Mk1
 
+[WARNING]
+====
+This Page is outdated!
+====
+
 ## Building Information
 
 Generates 20MW during the day! Has a slider to set how much power you want to be maintained as an output!

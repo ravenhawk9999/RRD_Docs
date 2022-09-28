@@ -1,5 +1,10 @@
 = Arc Reactor
 
+[WARNING]
+====
+This Page is outdated!
+====
+
 ## Building Information:
 Arc reactor must be provided with 20 of Advanced Reactor Core & 20m^3 Reactor Coolant before it will start. Core levels must maintain above 10, and coolant above 10m^3, otherwise the reactor will shutdown.
 

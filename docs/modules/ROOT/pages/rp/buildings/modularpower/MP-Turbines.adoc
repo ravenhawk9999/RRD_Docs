@@ -10,9 +10,9 @@ The Low Pressure Steam must be piped out the turbines into a Steam cooling tower
 ## Building Usage Rates:
 
 |===
-| Tier|Steam Consumption / Min |Steam Production / Min
-| 1|40|40
-| 2|80|80
+| Tier|Steam Consumption / Min |Steam Production / Min | Max RPM
+| 1|60 m³|60 m³|10,000
+| 2|120 m³|120 m³|25,000
 |===
 
 ## Building Cost:

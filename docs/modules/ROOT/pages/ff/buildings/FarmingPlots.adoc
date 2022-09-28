@@ -1,5 +1,10 @@
 = Farming Plots
 
+[WARNING]
+====
+This Page is outdated!
+====
+
 Farming Plots need to be placed on a Farming Platform.
 
 [TIP]
