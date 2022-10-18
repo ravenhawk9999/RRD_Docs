@@ -3,3 +3,6 @@
 Currently solar panels are a Work-In-Progress building but still produce power correctly.
 
 Solar panels take energy from the sun, therefore power production is variable depending on the time of day. Some solar panels work during the night.
+
+In version 3.1.0, the Mk.1 and flat roof solar panels do not produce power due to a known bug.
+This will be fixed in the next version.
