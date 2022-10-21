@@ -13,7 +13,7 @@ The heater will produce CO₂, which will need to be handled by either venting t
 The biomass heater can produce 500{nbsp}℃ heat and can be fed with the following items:
 
 |===
-| Item   | Heat / Cycle | Consumption / Min | CO₂ / Min
+| Item   | Heat / Cycle | Item consumption rate | CO₂ production rate
 | Leaves|0.5|240|30{nbsp}m³
 | Wood|1|36|45{nbsp}m³
 | Mycelia|2|180|45{nbsp}m³
@@ -30,7 +30,7 @@ The biomass heater can produce 500{nbsp}℃ heat and can be fed with the followi
 The coal heater can produce 500{nbsp}℃ heat and can be fed with the following items:
 
 |===
-| Item   | Heat / Cycle | Consumption / Min |CO₂ / Min
+| Item   | Heat / Cycle | Item consumption rate | CO₂ production rate
 |Coal|10|15|30{nbsp}m³
 |Petroleum Coke|6|25|30{nbsp}m³
 |Compacted Coal|15|7.143|30{nbsp}m³
@@ -39,7 +39,7 @@ The coal heater can produce 500{nbsp}℃ heat and can be fed with the following 
 === Solution Heater
 The Solution heater can produce 750{nbsp}℃ heat and can be fed with the following items:
 |===
-| Item   | Heat / Cycle | Consumption / Min | CO₂  / Min
+| Item   | Heat / Cycle | Item consumption rate | CO₂ production rate
 | Biofuel|25|12{nbsp}m³|30{nbsp}m³
 | Fuel|30|12{nbsp}m³|30{nbsp}m³
 | Turbofuel|35|4{nbsp}m³|45{nbsp}m³
@@ -49,7 +49,7 @@ The Solution heater can produce 750{nbsp}℃ heat and can be fed with the follow
 The Nuclear heater can produce 2{nbsp}000{nbsp}℃ heat and can be fed with the following items:
 
 |===
-| Item   | Heat / Cycle | Consumption / Min | Waste | Waste  / Min
+| Item   | Heat / Cycle | Item consumption rate | Type of waste | Waste production rate
 | Nuclear Fuel Rods|2{nbsp}000|0.125|Nuclear Waste (Vanilla)| 6.25
 | Plutonium|2{nbsp}000|0.0625|Plutonium Waste (Vanilla)| 0.625
 | Advanced Reactor Cores|2{nbsp}000|0.125|Advanced Reactor Casing| 0.125
