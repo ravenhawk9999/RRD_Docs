@@ -1,56 +1,56 @@
 = Modular Power Heaters
 
-## Building Information:
-Heaters are used to burn fuel to make heat. Currently there are 4 variants: Biomass, Coal, Solution & Nuclear.
+== Building Information:
+Heaters are used to burn fuel to make heat. Currently, there are 4 variants: Biomass, Coal, Solution and Nuclear.
 
-Once the heater reaches 100℃ the attached Boiler will then start producing Steam, the temperature will reach 2000℃ for the nuclear heater. 750℃ for the solution heater and 500℃ for the rest.
+Once the heater reaches 100{nbsp}℃ the attached Boiler will then start producing Steam, the temperature will reach 2{nbsp}000{nbsp}℃ for the nuclear heater. 750{nbsp}℃ for the solution heater and 500{nbsp}℃ for the rest.
 
 The heater will produce CO₂, which will need to be handled by either venting through a chimney or accumulating into Carbon Dust. If the CO₂ is not resolved and fills the heater, it will stop producing heat and slowly cool.
 
-## Variants:
+== Variants:
 
-### Biomass Heater
-The biomass heater can produce 500℃ heat and can be fed with the following items:
-
-|===
-| Item   | Heat / Cycle | Consumption / Min | CO₂  / Min
-| Leaves|0.5|240|30 m³
-| Wood|1|36|45 m³
-| Mycelia|2|180|45 m³
-| Alien Carapace|10|15|30 m³
-| Fabric|5|240|30 m³
-| Alien Organs|10|15|30 m³
-| Biomass|20|20|30 m³
-| Solid Biofuel|30|8|30 m³
-| Packaged Biofuel|35|4,8|45 m³
-| Flower|0.25|36|45 m³
-|===
-
-### Coal Heater
-The coal heater can produce 500℃ heat and can be fed with the following items:
+=== Biomass Heater
+The biomass heater can produce 500{nbsp}℃ heat and can be fed with the following items:
 
 |===
-| Item   | Heat / Cycle | Consumption / Min |  CO₂  / Min
-|Coal|10|15|30 m³
-|Petrolium Coke|6|25|30 m³
-|Compacted Coal|15|7,143|30 m³
+| Item   | Heat / Cycle | Item consumption rate | CO₂ production rate
+| Leaves|0.5|240|30{nbsp}m³
+| Wood|1|36|45{nbsp}m³
+| Mycelia|2|180|45{nbsp}m³
+| Alien Carapace|10|15|30{nbsp}m³
+| Fabric|5|240|30{nbsp}m³
+| Alien Organs|10|15|30{nbsp}m³
+| Biomass|20|20|30{nbsp}m³
+| Solid Biofuel|30|8|30{nbsp}m³
+| Packaged Biofuel|35|4.8|45{nbsp}m³
+| Flower|0.25|36|45{nbsp}m³
 |===
 
-### Solution Heater
-The Solution heater can produce 750℃ heat and can be fed with the following items:
-|===
-| Item   | Heat / Cycle | Consumption / Min | CO₂  / Min
-| Biofuel|25|12 m³|30 m³
-| Fuel|30|12 m³|30 m³
-| Turbofuel|35|4 m³|45 m³
-|===
-
-### Nuclear Heater
-The Nuclear heater can produce 2000℃ heat and can be fed with the following items:
+=== Coal Heater
+The coal heater can produce 500{nbsp}℃ heat and can be fed with the following items:
 
 |===
-| Item   | Heat / Cycle | Consumption / Min | Waste | Waste  / Min
-| Nuclear Fuel Rods|2000|0.125|Nuc Waste (Vanilla)| 6,25
-| Plutonium|2000|0.0625|Plutonium Waste (Vanilla)| 0,625
-| Advanced Reactor Cores|2000|0.125|Advanced Reactor Casing| 0,125
+| Item   | Heat / Cycle | Item consumption rate | CO₂ production rate
+|Coal|10|15|30{nbsp}m³
+|Petroleum Coke|6|25|30{nbsp}m³
+|Compacted Coal|15|7.143|30{nbsp}m³
+|===
+
+=== Solution Heater
+The Solution heater can produce 750{nbsp}℃ heat and can be fed with the following items:
+|===
+| Item   | Heat / Cycle | Item consumption rate | CO₂ production rate
+| Biofuel|25|12{nbsp}m³|30{nbsp}m³
+| Fuel|30|12{nbsp}m³|30{nbsp}m³
+| Turbofuel|35|4{nbsp}m³|45{nbsp}m³
+|===
+
+=== Nuclear Heater
+The Nuclear heater can produce 2{nbsp}000{nbsp}℃ heat and can be fed with the following items:
+
+|===
+| Item   | Heat / Cycle | Item consumption rate | Type of waste | Waste production rate
+| Nuclear Fuel Rods|2{nbsp}000|0.125|Nuclear Waste (Vanilla)| 6.25
+| Plutonium|2{nbsp}000|0.0625|Plutonium Waste (Vanilla)| 0.625
+| Advanced Reactor Cores|2{nbsp}000|0.125|Advanced Reactor Casing| 0.125
 |===
