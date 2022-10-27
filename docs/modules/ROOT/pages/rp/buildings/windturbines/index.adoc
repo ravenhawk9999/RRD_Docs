@@ -21,3 +21,5 @@ The area of effect is as follows:
 | 3  
 | 10 
 |===
+
+If you don't like the fluctuation in the power output, you can disable that in the menu. This limits the power output to half of the maximum.
