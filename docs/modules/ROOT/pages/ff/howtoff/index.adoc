@@ -9,8 +9,14 @@ Get at least the "Basic Farmer - Building" Milestone.
 == Find and Dig for Jar of Dirt
 Like any other normal Resource you need to find a Resources Node.
 A (Mobile-)Miner can auto collect this for you.
-To get the first Seeds the easiest way is to extract Seeds from Dirt in the Workbench.
-Later you can use the Seed Extractor to automate this process.
+
+== Begin Seed Automation
+Place a dirt mine, and as many Seed Extractors as needed for the
+mine. Each seed extractor can process 30 jars a minute. Output
+from basic dirt will be 20 Wheat Seeds, 20 Carrot Seeds, 10 Corn
+Seeds, and 10 Potato Seeds per minute (60 seeds total). Send
+either to storage containers or a smart manifold to distribute to
+Farm Platforms.
 
 == Build your first Farm
 With Seeds in your hand build a "Farming Platform" first.
