@@ -13,3 +13,10 @@ Refined Power has always had multiplayer support as a high priority for any upda
 image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
 image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_no.png[]
 
+== Note on this documentation
+
+To avoid confusion in terms of number formats, the following format is used: +
+The .{nbsp}(dot) is used as decimal separator, e.g. in 3.333{nbsp}m³. +
+The _space_ is used as thousands separator, e.g. in 3{nbsp}333{nbsp}m³.
+
+Consumption and production rates are always given in _unit_/min unless otherwise noted, e.g. 5{nbsp}m³ means 5{nbsp}m³ per Minute.

@@ -1,29 +1,29 @@
 = Modular Power Boilers
 
-## Building Information:
-Boilers are placed on top of Heaters and will turn Water into High Pressure Steam. There are currently 2 variants of boilers, Mk1 & Mk2.
+== Building Information:
+Boilers are placed on top of Heaters and will turn Water into High Pressure Steam. There are currently 2 variants of boilers, Mk.1 and Mk.2.
 
-## Building Cost:
+== Building Cost:
 
-### Boiler MK1: 
+=== Boiler Mk.1:
 * 20 Copper Sheet
 * 12 Reinforced Iron Plate
 * 4  Modular Frame
 
 |===
-| Tier|500℃|750℃|2000℃
-| Water Consume|45 m³/min|45 m³/min|45 m³/min
-| Steam Production|60 m³/min|60 m³/min|60 m³/min
+| Tier|500{nbsp}℃|750{nbsp}℃|2{nbsp}000{nbsp}℃
+| Water Consumption|45{nbsp}m³|45{nbsp}m³|45{nbsp}m³
+| Steam Production|60{nbsp}m³|60{nbsp}m³|60{nbsp}m³
 |===
 
 
-### Boiler MK2:
+=== Boiler Mk.2:
 * 100 Copper Sheet
 * 20  Reinforced Iron Plate
 * 4   Heavy Modular Frame
 
 |===
-| Tier|500℃|750℃|2000℃
-| Water Consume|45 m³/min|90 m³/min|450 m³/min
-| Steam Production|60 m³/min|120 m³/min|600 m³/min
+| Tier|500{nbsp}℃|750{nbsp}℃|2{nbsp}000{nbsp}℃
+| Water Consumption|45{nbsp}m³|90{nbsp}m³|450{nbsp}m³
+| Steam Production|60{nbsp}m³|120{nbsp}m³|600{nbsp}m³
 |===
