@@ -11,6 +11,7 @@
 **** xref:rp/buildings/reactors/Micro-Reactor.adoc[Micro Reactor]
 **** xref:rp/buildings/reactors/Arc-Reactor.adoc[Arc Reactor]
 *** xref:rp/buildings/modularpower/index.adoc[Modular Power]
+**** xref:rp/buildings/modularpower/basicSetup.adoc[Basic Setup]
 **** xref:rp/buildings/modularpower/MP-Platforms.adoc[Platforms]
 **** xref:rp/buildings/modularpower/MP-Heaters.adoc[Heaters]
 **** xref:rp/buildings/modularpower/MP-Boilers.adoc[Boilers]
