@@ -22,7 +22,7 @@ Note: This does **not** include building cost for any Water Pumps, Miners, pipes
 
 == Overview
 
-image::https://github.com/mrhid6/RRD_Docs/raw/master/images/rp/modularPower/basicSetup.png[]
+image::https://github.com/Mrhid6Mods/RRD_Docs/raw/master/images/rp/modularPower/basicSetup.png[]
 
 This image shows a very basic setup for a Modular Power Plant.
 
