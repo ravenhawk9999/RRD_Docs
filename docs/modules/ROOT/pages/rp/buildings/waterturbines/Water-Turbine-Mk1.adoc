@@ -11,4 +11,4 @@ Some sploosh power for your factory without item input!
 
 ## Building unlock tier: Tier 3
 
-image::https://github.com/mrhid6/sf_mod_refinedpower/raw/master/Images/WaterTurbine.png[]
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/SMR%20Images/Refined%20Power/Turbines/Water%20Turbine%20Edited.png[]

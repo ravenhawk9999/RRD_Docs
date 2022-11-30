@@ -10,7 +10,6 @@
 **** xref:rp/buildings/solarpanels/Solar-Panel-Mk3.adoc[Solar Panel Mk3]
 *** xref:rp/buildings/reactors/index.adoc[Reactors]
 **** xref:rp/buildings/reactors/Micro-Reactor.adoc[Micro Reactor]
-**** xref:rp/buildings/reactors/Arc-Reactor.adoc[Arc Reactor]
 *** xref:rp/buildings/modularpower/index.adoc[Modular Power]
 **** xref:rp/buildings/modularpower/basicSetup.adoc[Basic Setup]
 **** xref:rp/buildings/modularpower/MP-Platforms.adoc[Platforms]
