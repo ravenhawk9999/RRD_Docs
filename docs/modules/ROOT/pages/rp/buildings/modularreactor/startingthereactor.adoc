@@ -35,7 +35,7 @@ In the middle of the Control Panel you will see three lights, this is the order 
 
 You can now switch to the IO Modules Tab in the UI.
 
-==== IO Modulues Tab
+==== IO Modules Tab
 
 Select if the Reactor is to produce Power, Steam or Both using the toggle switches on the right of this Tab.
 
