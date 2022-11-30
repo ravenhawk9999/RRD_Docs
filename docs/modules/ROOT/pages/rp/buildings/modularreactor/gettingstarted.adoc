@@ -30,14 +30,3 @@ Reactor Shielding is snapped to the Support Ring, Allowing for better thermal di
 === Reactor IO Module
 
 IO is snapped to the Support Ring, Allowing for automation of fuel, water and reactor coolant.
-
-== How to Start the reactors
-
-* Open the foundation UI
-* Slide the reactor to 25%
-* Connect foundation to power grid
-* Open the Reactor UI
-* Lock all Reactor Chambers
-* Place Fuel in IO Tab
-* Charge Power (Dial should increase until its in the green area)
-* Smash the big on button once all leds are lit.
