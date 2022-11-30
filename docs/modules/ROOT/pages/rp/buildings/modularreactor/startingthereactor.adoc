@@ -38,6 +38,7 @@ You can now switch to the IO Modules Tab in the UI.
 ==== IO Modulues Tab
 
 Select if the Reactor is to produce Power, Steam or Both using the toggle switches on the right of this Tab.
+
 > Note: At least one of these toggle switches is **REQUIRED**
 
 ===== Manual Feed
