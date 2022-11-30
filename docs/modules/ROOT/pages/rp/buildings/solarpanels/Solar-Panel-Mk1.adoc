@@ -1,13 +1,10 @@
 = Solar Panel Mk1
 
-[WARNING]
-====
-This Page is outdated!
-====
-
 ## Building Information
 
-Generates 20MW during the day! Has a slider to set how much power you want to be maintained as an output!
+Generates 2 MW - 8 MW only during the day.
+
+Detects obstructions and will reduce the power production.
 
 Some renewable power from the binary star system of Akycha!
 
@@ -17,4 +14,4 @@ Some renewable power from the binary star system of Akycha!
 
 ## Building Unlock Tier:Tier 3
 
-image::https://github.com/mrhid6/sf_mod_refinedpower/raw/master/Images/SolarPanelMk1.png[]
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/SMR%20Images/Refined%20Power/Solar/Solar%20Mk1%20Edited.png[]

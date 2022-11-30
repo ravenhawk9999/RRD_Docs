@@ -7,6 +7,7 @@
 *** xref:rp/buildings/solarpanels/index.adoc[Solar Panels]
 **** xref:rp/buildings/solarpanels/Solar-Panel-Mk1.adoc[Solar Panel Mk1]
 **** xref:rp/buildings/solarpanels/Solar-Panel-Mk2.adoc[Solar Panel Mk2]
+**** xref:rp/buildings/solarpanels/Solar-Panel-Mk3.adoc[Solar Panel Mk3]
 *** xref:rp/buildings/reactors/index.adoc[Reactors]
 **** xref:rp/buildings/reactors/Micro-Reactor.adoc[Micro Reactor]
 **** xref:rp/buildings/reactors/Arc-Reactor.adoc[Arc Reactor]
