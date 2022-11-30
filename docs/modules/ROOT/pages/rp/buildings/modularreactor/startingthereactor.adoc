@@ -26,6 +26,7 @@ You will see the middle light show green when all reactors chambers are locked (
 
 
 In the middle of the Control Panel you will see three lights, this is the order they repersent:
+
 * Top: Fuel
 * Middle: Locked Reactor Chambers
 * Bottom: Power grid is greater than 100 MW
