@@ -1,20 +1,49 @@
 = Modular Power Chimneys
 
+== Information:
+Modular Power Chimneys are used to vent CO₂ and Steam from heaters and turbines. They have to be placed on a Cooling Platform
+
 == Building Information:
-Modular Power Chimneys are used to vent CO₂ and Steam from heaters and turbines.
-
-== Building Usage Rates:
 
 |===
-| Building Name  | Consumption
-| Steam Cooler   | 300{nbsp}m³
-| CO₂ Cooler     | 150{nbsp}m³
+| |Co2 Chimney |Steam Cooling Tower
+|Building Cost
+|20x Copper Sheet +
+4x Reinforced Iron Plate +
+2x Carbon Mesh
+|20x Copper Sheet +
+4x Reinforced Iron Plate +
+2x Carbon Mesh
+
+|Fluid
+|Co2
+|Low Pressure Steam
+
+|Consumption rate
+|150 m³
+|300 m³
+
+
 |===
 
-== Variants:
+== Milestones
 
-=== CO₂ Chimney:
-TDB
+|===
+| |Co2 Chimney |Steam Cooling Tower
 
-=== Steam Chimney:
-TDB
+|Available with
+|Tier 3
+|Tier 3
+
+|Research Cost*
+|25x Reinforced Iron Plate +
+25x Rotor +
+200x Iron Rod +
+500x Cable
+|25x Reinforced Iron Plate +
+25x Rotor +
+200x Iron Rod +
+500x Cable
+|===
+
+*{sp}Both buildings are in the same milestone. Within the milestone, multiple Refined Power buildings are unlocked.

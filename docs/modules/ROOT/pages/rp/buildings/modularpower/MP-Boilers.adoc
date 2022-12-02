@@ -1,29 +1,57 @@
 = Modular Power Boilers
 
-== Building Information:
+== Information
 Boilers are placed on top of Heaters and will turn Water into High Pressure Steam. There are currently 2 variants of boilers, Mk.1 and Mk.2.
 
-== Building Cost:
-
-=== Boiler Mk.1:
-* 20 Copper Sheet
-* 12 Reinforced Iron Plate
-* 4  Modular Frame
+== Building Information
 
 |===
-| Tier|500{nbsp}℃|750{nbsp}℃|2{nbsp}000{nbsp}℃
-| Water Consumption|45{nbsp}m³|45{nbsp}m³|45{nbsp}m³
-| Steam Production|60{nbsp}m³|60{nbsp}m³|60{nbsp}m³
+| |Mk. 1 |Mk. 2
+
+|Building Cost
+|20x Copper Sheet +
+12x Reinforced Iron Plate +
+4x Modular Frame
+|100x Copper Sheet +
+20x Reinforced Iron Plate +
+5x Heavy Modular Frame
+
+|Water consumption
+|45 m³ @ 500 °C +
+45 m³ @ 750 °C +
+45 m³ @ 2 000 °C
+|45 m³ @ 500 °C +
+90 m³ @ 750 °C +
+450 m³ @ 2 000 °C
+
+|Steam output
+|60 m³ @ 500 °C +
+60 m³ @ 750 °C +
+60 m³ @ 2 000 °C
+|60 m³ @ 500 °C +
+120 m³ @ 750 °C +
+600 m³ @ 2 000 °C
 |===
 
+The Mk. 1 Boiler reaches maximum efficiency at 500 °C, so there will be some heat lost when using it with Solution Heaters or Nuclear Heaters.
 
-=== Boiler Mk.2:
-* 100 Copper Sheet
-* 20  Reinforced Iron Plate
-* 4   Heavy Modular Frame
+== Milestones
 
 |===
-| Tier|500{nbsp}℃|750{nbsp}℃|2{nbsp}000{nbsp}℃
-| Water Consumption|45{nbsp}m³|90{nbsp}m³|450{nbsp}m³
-| Steam Production|60{nbsp}m³|120{nbsp}m³|600{nbsp}m³
+| |Mk. 1 |Mk. 2
+
+|Available with
+|Tier 3
+|Tier 5
+
+|Research Cost*
+|25x Reinforced Iron Plate +
+25x Rotor +
+200x Iron Rod +
+500x Cable
+|100x Plastic +
+50x Rubber +
+500x Copper Sheets
 |===
+
+*{sp}Within the milestones, multiple Refined Power buildings are unlocked.
