@@ -1,24 +1,60 @@
 = Modular Power Turbines
 
-== Building Information:
-Modular Power Turbines convert High Pressure Steam to produce RPM and Low Pressure Steam.
+== Information:
+Modular Power Turbines use High Pressure Steam to produce RPM and convert it to Low Pressure Steam in the process.
 
 RPM is used with the attached Generators you can lower or raise the RPM by discarding any steam and sending it directly out the output connection.
 
 The Low Pressure Steam must be piped out the turbines into a Steam cooling tower or used to create water. If the low pressure steam is not removed from the turbine the RPM will slowly decrease and eventually stop.
 
-== Building Usage Rates:
+They have to be placed on Converter Platforms.
+
+== Building Information
 
 |===
-| Tier|Steam Consumption |Steam Production | Max RPM
-| 1|60{nbsp}m³|60{nbsp}m³|10{nbsp}000
-| 2|120{nbsp}m³|120{nbsp}m³|25{nbsp}000
+| |Mk. 1 |Mk. 2
+
+|Building Cost
+|20x Reinforced Iron Plate +
+6x Modular Frame +
+10x Rotor
+|6x Heavy Modular Frame +
+10x Motor +
+4x Computer
+
+|Maximum RPM
+|10 000
+|25 000
+
+|Steam Consumption +
+(High Pressure)
+|60 m³
+|120 m³
+
+|Steam Production +
+(Low Pressure)
+|60 m³
+|120 m³
+
 |===
 
-== Building Cost:
+== Milestones
 
-TBD
+|===
+| |Mk. 1 |Mk. 2
 
-== Building Tier:
+|Available with
+|Tier 3
+|Tier 5
 
-TBD
+|Research Cost*
+|25x Reinforced Iron Plate +
+25x Rotor +
+200x Iron Rod +
+500x Cable
+|100x Plastic +
+50x Rubber +
+500x Copper Sheets
+|===
+
+*{sp}Within the milestones, multiple Refined Power buildings are unlocked.

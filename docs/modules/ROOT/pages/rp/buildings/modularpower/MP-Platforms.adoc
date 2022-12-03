@@ -1,7 +1,35 @@
 = Modular Power Platforms
 
-== Building Information:
+== Information:
 These buildings are the bases for all Modular Power buildings, and must be placed before anything else. There are currently 3 different variants: Boiler, Converter, and Cooler platforms.
+
+== Building Information
+
+|===
+| |All Platforms
+
+|Building Cost
+|6x Reinforced Iron Plate +
+20x Iron Rod +
+2x Modular Frame
+|===
+
+== Milestones
+
+|===
+| |All Platforms*
+
+|Available with
+|Tier 3
+
+|Research Cost
+|25x Reinforced Iron Plate +
+25x Rotor +
+200x Iron Rod +
+500x Cable
+|===
+
+*{sp}All platforms are within the same milestone in Tier 3 (the basic milestone for modular power plants)
 
 == Variants:
 

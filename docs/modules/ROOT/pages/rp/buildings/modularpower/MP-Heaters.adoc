@@ -1,13 +1,83 @@
 = Modular Power Heaters
 
-== Building Information:
-Heaters are used to burn fuel to make heat. Currently, there are 4 variants: Biomass, Coal, Solution and Nuclear.
+== Information:
+Heaters are used to burn fuel to make heat. They have to be placed on a Boiler Platform. Currently, there are 4 variants: Biomass, Coal, Solution and Nuclear.
 
 Once the heater reaches 100{nbsp}℃ the attached Boiler will then start producing Steam, the temperature will reach 2{nbsp}000{nbsp}℃ for the nuclear heater. 750{nbsp}℃ for the solution heater and 500{nbsp}℃ for the rest.
 
-The heater will produce CO₂, which will need to be handled by either venting through a chimney or accumulating into Carbon Dust. If the CO₂ is not resolved and fills the heater, it will stop producing heat and slowly cool.
+The heater will produce CO₂, which needs to be handled by either venting through a chimney or accumulating into Carbon Dust. If the CO₂ is not resolved and fills the heater, it will stop producing heat and slowly cool down.
 
-== Variants:
+== Building Information
+
+|===
+| |Biomass Heater |Coal Heater |Solution Heater |Nuclear Heater
+
+|Building Cost
+|12x Reinforced Iron Plate +
+3x Modular Frame +
+20x Cable
+|20x Reinforced Iron Plate +
+5x Modular Frame +
+50x Cable
+|6x Heavy Modular Frame +
+5x Computer +
+40x Rubber +
+50x Quickwire
+|100x Concrete +
+50x Cable +
+14x High-Speed Connector +
+5x Supercomputer
+
+|Maximum Heat
+|500 °C
+|500 °C
+|750 °C
+|2 000 °C
+
+|Items*
+|Leaves, Wood, Mycelia, Alien Carapace, Fabric, Alien Organs,
+Biomass, Solid Biofuel, Packaged Biofuel, Flower
+|Coal, Petroleum Coke, Compacted Coal
+|Biofuel, Fuel, Turbofuel
+|Nuclear Fuel Rods, Plutonium, Advanced Reactor Cores
+|===
+
+*{sp}For consumption rates, produced heat and CO₂ see tables below
+
+== Milestones
+
+|===
+| |Biomass Heater |Coal Heater |Solution Heater |Nuclear Heater
+
+|Available with
+|Tier 3
+|Tier 5
+|Tier 6
+|Tier 7
+
+|Research Cost*
+|25x Reinforced Iron Plate +
+25x Rotor +
+200x Iron Rod +
+500x Cable
+|25x Reinforced Iron Plate +
+25x Rotor +
+200x Iron Rod +
+500x Cable
+|50x Computer +
+300x Plastic +
+300x Rubber +
+50x Encased Industrial Beam
+|200x Computer +
+100x Heavy Modular Frame +
+50x High-Speed Connector +
+250x Alclad Aluminum Sheets
+|===
+
+*{sp}Within the milestones, multiple Refined Power buildings are unlocked.
+
+
+== Variants
 
 === Biomass Heater
 The biomass heater can produce 500{nbsp}℃ heat and can be fed with the following items:

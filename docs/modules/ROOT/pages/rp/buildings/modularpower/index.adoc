@@ -7,5 +7,4 @@ Ficsit pioneers can have a deconstructed version of any in-game power generator.
 * Boiler
 * Turbine
 * Generator
-* Chimney 
- 
+* Chimney
