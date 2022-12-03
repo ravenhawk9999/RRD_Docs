@@ -36,7 +36,7 @@ If you don't like the fluctuation of the power output, you can disable that in t
 |Area Radius
 |3 foundations*
 |6.5 foundations
-|?
+|9.5 foundations
 |===
 
 == Milestones

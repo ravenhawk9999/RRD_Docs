@@ -1,5 +1,37 @@
 = Water Turbines
 
-## Water Turbine Mechanics
-Water turbines can only be placed on dedicated nodes in flowing water like rivers, creeks and waterfalls, with each of those giving a different amount of power - 8, 20, or 50MW.
+== Water Turbine Mechanics
+Water turbines can only be placed on dedicated nodes in flowing water like rivers, creeks and waterfalls, with each of those giving a different amount of power.
 
+== Building Information
+
+|===
+| | Mk. 1
+
+| Building Cost
+| 50x Steel Pipe +
+150x Wire
+
+|Maximum Power Output
+|50 MW*
+
+|===
+
+== Milestones
+
+|===
+| | Mk. 1
+
+|Available with
+|Tier 4
+
+|Research Cost
+|200x Steel Pipe +
+1 000x Wire
+50x Steel Beam
+|===
+
+*{sp}Depending on the node purity, the output is either 8 MW, 20 MW or 50 MW.
+
+
+image::https://github.com/mrhid6/sf_mod_refinedpower/raw/master/Images/WaterTurbine.png[]
