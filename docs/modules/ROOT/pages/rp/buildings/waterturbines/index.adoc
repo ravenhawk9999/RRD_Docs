@@ -23,11 +23,11 @@ Water turbines can only be placed on dedicated nodes in flowing water like river
 | | Mk. 1
 
 |Available with
-|Tier 4
+|Tier 3
 
 |Research Cost
 |200x Steel Pipe +
-1 000x Wire
+1 000x Wire +
 50x Steel Beam
 |===
 

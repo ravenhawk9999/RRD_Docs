@@ -37,19 +37,23 @@ If the panels are obstructed, they will reduce the power production.
 | |Mk. 1 |Mk. 2 |Mk. 3 | Roof
 
 |Available with
-|Tier 1
+|Tier 3
 |Tier 5
 |Tier 7
-|- (Awesome Shop)
+|- (Awesome Shop)*
 
 |Research Cost
-|200x Iron Plate +
-150x Iron Rod
-|200x Encased Industrial Beam +
+|200x Steel Pipe +
+1 000x Wire +
+50x Steel Beam
+|100x Photovoltaic Cell +
 500x Quickwire +
 50x Heavy Modular Frame
-|200x Heat Sink +
-150x High-Speed Connector +
-50x Heavy Modular Frame
+|100x Photovoltaic Cell +
+500x Quickwire +
+50x Heavy Modular Frame +
+200x Alclad Aluminum Sheets
 | - (5x Ficsit Coupon)
 |===
+
+*{sp}To unlock it in the Awesome Shop, first you have to unlock Mk. 1 solar panels and roofs.
