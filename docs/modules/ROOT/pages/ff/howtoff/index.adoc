@@ -28,23 +28,11 @@ When the Platform is powered the Plot starts the growing process.
 After a while you can harvest the first Crops from the Plot. 
 - Congratulation! -
 
-== Close the circle or build a line ?
-
-At this Point you start wondering how to automate the process.
-The Keypoint of this is getting the "Seed Extractor".
-When you unlocked this you have 2 options to continue.
-
-1. Build a Circle (most Popular)
-Crops will give you only back (multiple) Seeds from this specific Crop.
-After a while you can split this process so some seeds go back into the circle and some crops into your storage.
-Pro: Easy setup everywhere
-Con: Lower Final Output
-
-2. Build a Line
-The alternative is to use the Dirt Nodes to create Seeds with the "Seed Extractor".
-The tricky part of this is that you get random seed types from the Extractor using Dirt, so you will need to us some Smart Splitters.
-Pro: Highest Output
-Con: Complex to Setup and "bound" to a Node.
+== Automate!
+Once you have unlocked the Harvester Module, you'll be able fully 
+automate the farming cycle by adding harvesting modules to your plots. 
+Untill then you will have to manually harvest each plot by draging 
+the crop from the plots inventory slot to your own inventory.
 
 Now you know the basics about farming.
 
