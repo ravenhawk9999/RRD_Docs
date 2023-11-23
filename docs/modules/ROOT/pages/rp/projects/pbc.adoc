@@ -1,9 +1,0 @@
-= Project Big Cake
-
-== Introduction / Design
-Project Big Cake is the replacement to the Arc Reactors. It has been designed to add more complexity to reactors and give more of a challenge to the players.
-
-== Progress
-* UI - 90%
-* Models - 100%
-* Code - 95%

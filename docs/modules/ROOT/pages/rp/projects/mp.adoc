@@ -1,9 +1,0 @@
-= Modular Power
-
-== High Level Plan
-
-This project is for updating usage rates on all modular power buildings to have a consistent usage rate of items.
-
-== Progress
-
-* 100% (DONE)

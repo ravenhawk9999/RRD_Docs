@@ -1,0 +1,47 @@
+= Project Icarus
+
+A new age of power has been developed by the Refined R&D department, allowing heat from concentrated sun rays to boil water into a highy compressed steam.
+
+As the Ficsit engineers were having to come down to MASSAGE-2(A-B)b and fix the Dyson Sphere the program was terminated.
+
+== Introduction
+
+[NOTE]
+====
+Project Icarus is end game content.
+====
+
+As the Dyson Sphere Program was one of the first stapple massive buildings in Refined Power it was introduced to the game around Update2 / Update3.
+
+The project didn't have any applity to use some of the new features that game offered in those update e.g. pipes and space elevator parts.
+
+Due to the number of issue encounted with Dyson Sphere the Refined R&D Team decided that it was not worth updating and started a new Project called Icarus.
+
+Icarus has many similar traits to the Dyson Sphere but with a elevated feel.
+
+== Getting Started
+
+Getting started with Icarus requires you be have unlocked Tier 7/8 in game.
+
+To keep the Icarus Ray deflector in space in a working order Repair kits will need to be sent into space.
+
+Using a Icarus Rail Gun you can send the different Repair kits to the deflector in space.
+
+
+=== Icarus Receiver
+
+Once the Receiver is activated Water is converted to Compressed Steam.
+Compressed Steam can then be piped to the Super HV Turbines.
+
+=== Icarus Rail Gun
+
+The Rail Gun will charge up with power and once at max stored power it will be released in a surge of energy to shoot the items into space.
+
+=== Repair Kits
+
+There are four variants of Repair kits they all have different recipes.
+
+* Icarus Basic Repair Kit
+* Icarus Pioneer Repair Kit
+* Icarus Reinforced Repair Kit
+* Icarus Electrical Repair Kit

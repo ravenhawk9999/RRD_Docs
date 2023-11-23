@@ -13,21 +13,24 @@ Ficsit Pioneers can get their hands dirty with the Ficsit Farming Mod, automatin
 
 == Multiplayer support:
 
-Ficsit Farming will have 100% multiplayer support. We aim to fully support multiplayer, removing any bugs within the first month of release of Ficsit Farming.
+Ficsit Farming will have 100% multiplayer support. We aim to fully support multiplayer.
+If you encounter any bug related to multiplayer please report these on our Discord Server.
 
 image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
-image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_no.png[]
+image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_yes.png[]
 
 
-== What this Mod do:
+== What this Mod does:
 
 This mod adds the following:
+
 * New Buildings
 * New Items/Fluids
 * Milestones
 * New game mechanics for Doggos
 
 What this mod will not add:
+
 * MAM research
 * Vehicles
 * A Cow

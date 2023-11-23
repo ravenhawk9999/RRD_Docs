@@ -11,7 +11,7 @@ Ficsit pioneers can now have refined power production that can provide a variety
 Refined Power has always had multiplayer support as a high priority for any update and this will not change in the slightest. To make sure that playing with your friends is possible and to have a fun experience! While multiplayer support isn't 100% finished yet, we do hope we can fix these little bugs in the future!
 
 image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
-image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_no.png[]
+image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_yes.png[]
 
 == Note on this documentation
 
