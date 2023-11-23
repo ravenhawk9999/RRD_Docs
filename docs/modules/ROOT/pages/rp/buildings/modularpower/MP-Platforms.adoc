@@ -1,7 +1,7 @@
 = Modular Power Platforms
 
 == Information:
-These buildings are the bases for all Modular Power buildings, and must be placed before anything else. There are currently 3 different variants: Boiler, Converter, and Cooler platforms.
+These buildings are the bases for all Modular Power buildings, and must be placed before anything else. There are currently 3 different variants: Boiler, Converter, and Cooling platforms.
 
 == Building Information
 
@@ -39,5 +39,5 @@ These platforms are used with the Modular Power Heaters on the bottom and Boiler
 === Converter Platform:
 These platforms are used for the Modular Power Turbines & Generators.
 
-=== Cooler Platform:
+=== Cooling Platform:
 These platforms are used for the Co2 Chimney or Steam Chimney.
