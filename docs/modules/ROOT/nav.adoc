@@ -48,6 +48,7 @@
 
 * xref:ds/index.adoc[Digital Storage]
 ** xref:ds/gettingstarted/index.adoc[Getting Started]
+** xref:ds/gettingstarted/quickstart.adoc[Quick Start]
 ** xref:ds/buildings/index.adoc[Buildings]
 *** xref:ds/buildings/networkdistributor.adoc[Network Distributor]
 *** xref:ds/buildings/networkpower.adoc[Network Power Adapter]

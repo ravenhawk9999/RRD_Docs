@@ -1,0 +1,12 @@
+= Quick Start
+
+1. Place down a Network Distributor
+2. Connect Power and Connect Network to a network pole
+3. Open the Network Distributor UI
+    * Click on the Network Information button
+    * Select the First Network in the Network ID Dropdown
+4. Place down Network Power Adapter
+5. Connect Power and Connect Network
+6. Open the Network Power Adapter UI
+    * Click on the Network Information button
+    * Select the same Network as the Network Distributor in the Network ID Dropdown
