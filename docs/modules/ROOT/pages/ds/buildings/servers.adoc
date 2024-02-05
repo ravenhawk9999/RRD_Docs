@@ -1,0 +1,23 @@
+= Servers
+
+Servers are the only storage device for Items / Fluids / Gases.
+The servers come in two sizes, 1U and 2U. These sizes determine how much space it will take in the Server Rack.
+
+== 1U Servers
+
+The 1U Server takes up one slot in the Server Rack and can hold 4 Storage Drives.
+
+There are two variants of the 1U Server.
+
+* 1U Server - Allows Only Items.
+* 1UF Server - Allows Only Fluids.
+
+== 2U Servers
+
+The 2U Server takes up two slots in the Server Rack and can hold 12 Storage Drives.
+
+There are three variants of the 2U Server.
+
+* 2U Server - Allows Only Items.
+* 2UF Server - Allows Only Fluids.
+* 2UG Server - Allows Only Gases.

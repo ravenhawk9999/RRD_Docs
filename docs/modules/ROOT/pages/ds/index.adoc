@@ -1,0 +1,36 @@
+= Digital Storage
+
+image::https://storage.ficsit.app/file/smr-prod-s3/images/mods/2YbMQ1JxN14Xso/logo.webp[250,250]
+
+== Introduction:
+
+Convert items into bytes and store massive amounts of items, fluids and gases in buildable servers.
+
+Create smaller networks for outposts or run network cables around the map.
+
+Directly connect to Constructors, Furnaces, Assemblers, Manufactures and more to automate item creation further.
+
+Automated crafting of items using the Crafting Servers and interface to assigned buildings using Crafting Adapters.
+
+== Multiplayer support:
+
+Digital Storage will have 100% multiplayer support. We aim to fully support multiplayer, removing any bugs within the first month of release of Digital Storage.
+
+image::https://raw.githubusercontent.com/deantendo/community/master/com_mp_yes.png[]
+image::https://raw.githubusercontent.com/deantendo/community/master/ea_yes_exp_yes.png[]
+
+
+== What this Mod does:
+
+This mod adds the following:
+
+* New Buildings
+* New Items
+* Milestones
+* MAM research
+* Item/Fluid/Gas Storage
+
+What this mod will not add:
+
+* Vehicles
+* An advanced AI

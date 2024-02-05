@@ -1,0 +1,15 @@
+= Server Rack
+
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/ds/Icon_DS_ServerRack.png[Distributor,250,250,float="left",align="center"]
+
+The Server Rack is a buildable that lets you snap Digital Storage Servers. 
+The network connection is seamlessly passed to all connected servers.
+
+The Server Rack has 22 Slots and allows a mix of different server sizes (1U or 2U).
+
+Adding a new server to the rack is as simple as using the build menu, selecting the server and hovering over the server rack.
+
+[NOTE]
+====
+You cannot deconstruct the server rack if items are stored in the servers.
+====

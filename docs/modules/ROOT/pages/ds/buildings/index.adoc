@@ -1,0 +1,3 @@
+= Buildings
+
+This mod adds an additional tab in the build menu called "Digital Storage".

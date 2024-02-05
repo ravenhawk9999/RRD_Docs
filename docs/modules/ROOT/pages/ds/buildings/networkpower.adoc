@@ -1,0 +1,21 @@
+= Network Power Adapter
+
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/ds/Icon_DS_NetworkPowerAdapter.PNG[Distributor,250,250,float="left",align="center"]
+
+All network-attached devices require power, which is where the Network Power Adapter comes in.
+
+The Network Power Adapter serves as the intermediary, ensuring that the power supplied from the electrical grid is converted into the precise form needed to sustain the network. 
+
+When establishing a new network, a critical step involves manually assigning a network identifier known as the Network ID. 
+Users accomplish this task effortlessly through the user interface, clicking the Network Information button to select the specific Network ID.
+
+If you are starting a new Network, you must manually assign the Network ID.
+This can be done using the UI and clicking the Network Information button.
+
+A noteworthy feature comes into play once the initial configuration is complete and a Network ID is assigned. 
+Subsequent Power Adapters placed on the network can assign themselves the same Network ID automatically. 
+This automation streamlines the setup process, eliminating the need for manual intervention and allowing for the seamless integration of new devices into the existing network.
+
+== Daisy Chaining
+
+Each Power Adapter has a Power connection and a Network connection. Both connections can be daisy chained to other Power Adapters, allowing for a max of 2 cables for each connection point.

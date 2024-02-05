@@ -1,0 +1,126 @@
+= Getting Started
+
+== First Steps
+
+The first steps to getting started with Digital Storage is to unlock the first Milestone (Basic Networks) in the HUB.
+
+This will unlock the first buildings and items in the mod.
+
+* Buildables:
+   ** Network Distributor
+   ** Network Power Adapters
+   ** Network Cable
+   ** Network Pole
+   ** Server Rack
+   ** Storage Terminal
+   ** Storage Connection Adapter
+
+* Items:
+   ** Network Cable
+
+== Building Your First Network
+
+=== Network Distributor
+
+The *Network Distributor* is the Hub for each network just like a router in your home.
+
+[NOTE]
+====
+You can only build one Network Distributor per network.
+====
+
+You can change the name of the network in the *Network Distributor* UI or create new networks.
+
+Using the UI select the network you wish to associate the *Network Distributor* with.
+
+=== Networking
+
+Just like in game everything needs to be connected. Digital Storage has its own network system.
+
+Each building in the mod will have a Network Connection and a Network Indicator to show if the building is connected to the network.
+
+Connect the Network Distributor to a *Network Pole* using a *Network Cable*
+
+[IMPORTANT]
+====
+The Network Distributor must be connected to a Network Pole and not directly to a Building.
+====
+
+=== Network Power
+
+Each Digital Storage buildable requires network power.
+
+Adding Power to the network is done using the *Network Power Adapter*, Simply connect the building to a Network Pole and Power Pole.
+
+The *Network Power Adapter* can be daisy chained (Both Network & Power) to other Power Adapters.
+
+You will need to specify the network where the power is assigned through the buildings UI.
+
+[NOTE]
+====
+The Network you specify in the Power Adapters UI will need to be the same network you assigned on the Network Distributor.
+E.g Power Adapter -> Network Pole -> Network Distributor
+====
+
+=== Network Storage
+
+To add network Item/Fluid/Gas storage to the network you will first need a *Server Rack*.
+
+The *Server Rack* allows *Servers* to be snapped and placed inside and has 16 slots (Units) for servers.
+
+A *Server* can take up 1 or 2 slots in the *Server Rack* and is identified by the marking (1U or 2U)
+
+[NOTE]
+====
+You can mix different sizes of server to the *Server Rack*.
+
+For-Example:
+
+* Server 1U
+* Server 2U
+* Server 1U
+* Server 1U
+
+====
+
+The *Server Rack* has a network connection and will propergate the connection to all snapped servers in the rack.
+
+=== Network Storage Drives
+
+In the mod, storage can be increased by adding more Storage Drives to the network.
+
+Adding these drives to the Servers UI allows the network to store items in the Server.
+
+The total amount of items a drive can hold is identified in the Item name e.g. DS Drive (256)
+In this example the total number of items the drive can store is 256.
+
+By default a Drive can hold 1 type of Item. For-example 256x Iron Ore.
+
+You can increase the amount of item types by using Partitions. Each drive has a limited amount of partitions.
+
+Splitting the drive using partitions means you can have multiple item types but less storage for that type.
+
+For-Example:
+
+* 100x Iron Ore
+* 100x Iron Ingot
+* 56x Iron Rod
+
+=== Storage Terminals
+
+The *Storage Terminal* allows you to view and import/export items to/from your inventory.
+
+You can request items directly into your inventory or to the output slots in the UI.
+
+
+=== Storage Connection Adapters
+
+A *Storage Connection Adapter* can snap to Storage Containers and allows an interface to the network.
+
+You can set the Adapter to import or export items to/from the network storage. You can also set the amount the container is to maintain (Keep only 100 items in the container) or to Fill/Empty the container.
+
+The other type of Storage Connection Adapter is the *Pipe Connection Adapter* which has a Pipe input connection and Pipe output connection.
+
+This allows you to connect directly to your pipe network to import/export to/from network storage.
+
+

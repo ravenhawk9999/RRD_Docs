@@ -46,6 +46,12 @@
 ** xref:ff/items/index.adoc[Items]
 ** xref:ff/changelogs/index.adoc[Change Logs]
 
-
+* xref:ds/index.adoc[Digital Storage]
+** xref:ds/gettingstarted/index.adoc[Getting Started]
+** xref:ds/buildings/index.adoc[Buildings]
+*** xref:ds/buildings/networkdistributor.adoc[Network Distributor]
+*** xref:ds/buildings/networkpower.adoc[Network Power Adapter]
+*** xref:ds/buildings/serverrack.adoc[Server Rack]
+*** xref:ds/buildings/servers.adoc[Servers]
 
 * xref:ssm/index.adoc[SSM]

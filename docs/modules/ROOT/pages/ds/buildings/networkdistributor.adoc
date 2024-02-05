@@ -1,0 +1,38 @@
+= Network Distributor
+
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/ds/Icon_DS_NetworkDistributor.png[Distributor,200,200,float="left",align="center"]
+
+The Network Distributor is the first step to setting up a storage network in the game.
+
+To assign and start using a network, open the Network Distributor buildings UI and click on the Network Information Button at the bottom.
+
+Then, change the Network ID dropdown to the network you desire.
+
+The Building is unlocked in the Basic Networks milestone in Tier 3 Hub.
+
+
+
+== Network Distributor UI
+
+=== Adding Networks
+
+You can add a new network by opening any Network Distributor and clicking the plus icon at the bottom.
+
+Give the new network an ID number and a memorable name.
+
+=== Deleting Networks
+
+Deleting a network can also be done through the UI by clicking the X next to the network you want to delete.
+
+[IMPORTANT]
+====
+You must ensure that any Distributors assigned to the deleted network are updated.
+====
+
+=== Resetting Power
+
+When the network is overloaded, and the stored network power is drained, the network power will be tripped.
+
+The Power Reset button will show once the Power is tripped.
+
+Pull down the safety cover in the UI and click the big reset button.
