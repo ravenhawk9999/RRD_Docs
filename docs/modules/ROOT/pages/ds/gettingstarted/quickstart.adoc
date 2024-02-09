@@ -10,3 +10,5 @@
 6. Open the Network Power Adapter UI
     * Click on the Network Information button
     * Select the same Network as the Network Distributor in the Network ID Dropdown
+
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/ds/quickstart/BasicNetworkSetup.png[DistributorSetup,300,300]
