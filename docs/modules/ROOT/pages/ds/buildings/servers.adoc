@@ -3,6 +3,11 @@
 Servers are the only storage device for Items / Fluids / Gases.
 The servers come in two sizes, 1U and 2U. These sizes determine how much space it will take in the Server Rack.
 
+[NOTE]
+====
+You cannot deconstruct the servers if items are stored in them.
+====
+
 == 1U Servers
 
 The 1U Server takes up one slot in the Server Rack and can hold 4 Storage Drives.
@@ -21,3 +26,14 @@ There are three variants of the 2U Server.
 * 2U Server - Allows Only Items.
 * 2UF Server - Allows Only Fluids.
 * 2UG Server - Allows Only Gases.
+
+== Crafting Servers
+
+The Crafting Server will process crafting tasks and assign recipes to the crafting adapters.
+
+They will store the required/crafted items in a internal inventory and once the crafting task has completed it will send the items into network storage.
+
+[NOTE]
+====
+The crafting server will process crafting task recipes in sequential order
+====

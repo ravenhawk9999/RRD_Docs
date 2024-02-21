@@ -1,0 +1,69 @@
+= Adapters
+
+Mostly all adapters have the ability to snap to buildings (Furnaces, Constructors, Assemblers, Miners etc.)
+
+The only exceptions are the Power Adapter and Pipe Connection Adapter which are standalone buildings.
+
+
+== Storage Connection Adapter
+The storage connection adapter can snap to storage contains and can import or export items to/from the network.
+
+The storage connection adapter adds a new tab to the containers UI and the tab is where you configure which items can be imported/exported.
+
+[NOTE]
+====
+The storage connection adapter allows you to specify 6 items
+====
+
+
+== Pipe Connection Adapter
+The pipe connection adapter is a standalone buildings that has two pipe connection, One for input and the other for output.
+
+You can select one fluid item to import/export to/from the network.
+
+[NOTE]
+====
+The pipe connection adapter allows you to specify 1 item
+====
+
+== Resource Adapter
+The resource adapter can snap to any resource extractor ( Miners & Resource Wells ).
+
+The resource adapter adds a new tab to the extractors UI.
+
+You can only import items into the network and exporting is disabled.
+The resource that is being extracted is automatically configured in the UI and cant be changed.
+
+== Train Cargo Adapter
+
+The Train Cargo adapter can snap to train cargo platforms and can import or export items to/from the network.
+
+The Train Cargo adapter adds a new tab to the platforms UI and the tab is where you configure which items can be imported/exported.
+
+[NOTE]
+====
+The Train Cargo adapter allows you to specify 6 items
+====
+
+== Factory Adapter
+The Factory Adapter can snap to factory buildings (Furnaces, Constructors, Assemblers, etc.) and allows the ability to auto-craft items.
+
+Specify the recipe in the factory building and the adapter will import items to the building from the network and start auto crafting the recipe.
+
+The adapter will also export the crafted items back into the network.
+
+The factory adapter has conditional importing/exporting of items which means you need to specify when the items should be imported/exported to/from the network.
+
+For example if you are crafting iron rods:
+
+Import Page:
+Import Iron Ingots from the network when there is greater than 1 in the network: `> 1`
+
+Export Page:
+Export Iron Rods when there is less then 100 in the network: `< 100`
+
+== Crafting Adapter
+
+The Carfting Adapter can snap to factory buildings (Furnaces, Constructors, Assemblers, etc.) and allows the ability to on-demand craft items.
+
+The adapter will auto assign the correct recipe to craft when the crafting server requests it.

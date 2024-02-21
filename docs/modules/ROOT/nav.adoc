@@ -54,5 +54,6 @@
 *** xref:ds/buildings/networkpower.adoc[Network Power Adapter]
 *** xref:ds/buildings/serverrack.adoc[Server Rack]
 *** xref:ds/buildings/servers.adoc[Servers]
+*** xref:ds/buildings/adapters.adoc[Adapters]
 
 * xref:ssm/index.adoc[SSM]
