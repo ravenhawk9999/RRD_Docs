@@ -44,7 +44,6 @@
 *** xref:ff/buildings/FarmingModules.adoc[Modules]
 *** xref:ff/buildings/Misc.adoc[Misc]
 ** xref:ff/items/index.adoc[Items]
-** xref:ff/changelogs/index.adoc[Change Logs]
 
 * xref:ds/index.adoc[Digital Storage]
 ** xref:ds/gettingstarted/index.adoc[Getting Started]
