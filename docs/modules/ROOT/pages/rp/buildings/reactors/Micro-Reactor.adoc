@@ -20,6 +20,9 @@ The Micro Reactor can be fed with the following items:
 | Advanced Reactor Cores|0.05 
 |===
 
+image::https://github.com/Mrhid6Mods/RRD_Docs/raw/master/images/eqn1.png[]
+image::https://github.com/Mrhid6Mods/RRD_Docs/raw/master/images/eqn2.png[]
+
 ## Building Unlock Tier: Tier 7
 
 image::https://github.com/mrhid6/sf_mod_refinedpower/raw/master/Images/MicroReactor.png[]
