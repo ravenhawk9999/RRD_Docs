@@ -18,8 +18,6 @@
 **** xref:rp/buildings/modularreactor/gettingstarted.adoc[Getting Started]
 **** xref:rp/buildings/modularreactor/startingthereactor.adoc[Starting The Reactor]
 *** xref:rp/buildings/icarus/index.adoc[Icarus]
-*** xref:rp/buildings/misc/index.adoc[Misc]
-**** xref:rp/buildings/misc/Automated-Biomass-Generator.adoc[Automated Biomass Generator]
 ** xref:rp/projects/index.adoc[Projects]
 ** xref:rp/items/index.adoc[Items]
 
