@@ -1,6 +1,6 @@
 = Satisfactory Server Manager
 
-image::https://raw.githubusercontent.com/SatisfactoryServerManager/SSMCloud/main/public/images/ssm_logo256.png[200,200]
+image::https://raw.githubusercontent.com/SatisfactoryServerManager/SSMCloud/main/src/client/public/images/ssm_logo256.png[200,200]
 
 
 ## What is SSM?
@@ -36,4 +36,4 @@ SSM Cloud is hosted on our Refined R&D Servers with a 10Gib internet connection.
 
 Below is a visual repersentation of how agents connect to SSM Cloud.
 
-image::https://raw.githubusercontent.com/SatisfactoryServerManager/SSMCloud/main/public/images/docs_ssm_arch.png
+image::https://raw.githubusercontent.com/SatisfactoryServerManager/SSMCloud/main/src/client/public/images/docs_ssm_arch.png
