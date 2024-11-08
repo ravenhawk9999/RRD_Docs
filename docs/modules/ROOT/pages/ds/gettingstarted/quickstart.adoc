@@ -16,7 +16,7 @@ Using a Network Cable connect the Network Distributor to the Network Pole.
 
 Now to Power all the devices on the network, place down a Network Power Adapter near the Network Distributor.
 
-Connect the Power Adapter to the Power Grid. Then connect the Power Adapter using a Network Cable to the Network Pole placed ealier.
+Connect the Power Adapter to the Power Grid. Then connect the Power Adapter using a Network Cable to the Network Pole placed earlier.
 
 == Configuring The First Network
 
@@ -36,6 +36,11 @@ Optionally you can force the Network by Opening the Power Adapter UI and clickin
 
 
 image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/ds/quickstart/BasicNetworkSetup.png[DistributorSetup,300,300]
+
+[NOTE]
+====
+There is a power reset in the Power Distributor GUI you can check if everything is connected/linked and the poles are still showing red
+====
 
 == Configuring Storage
 
@@ -58,7 +63,7 @@ Once that has been placed, open the Build Menu and click on 1U Server.
 
 [NOTE]
 ====
-Servers are unlocked in another milestone in Tier 3.
+Servers and drives are unlocked in tier 3 under *Basic Network Drives*.
 ====
 
 To place the Server in the Server Rack, while building hover over the Server Rack or another Server in the Rack, you should see that the Server snaps inside the Server Rack.
@@ -73,7 +78,7 @@ If you see a <span style="color:red;">Red</span> indicator something is not conn
 
 === Storage Drives
 
-Once you have the Server placed in the Server Rack its time to fill the Server with storage drives.
+Once you have the Server placed in the Server Rack its time to fill the Server with storage <a href="/refinedrd/latest/ds/info/drives.html#_Drives">Drives</a>.
 
 Craft 4 DS Drive (256) drives, you can craft them in the Work Bench or in an assembler.
 
@@ -82,7 +87,7 @@ Craft 4 DS Drive (256) drives, you can craft them in the Work Bench or in an ass
 More drive options can be unlocked in the MAM
 ====
 
-Each drive will take up one inventory slot in your player inventory and do not stack.
+Each drive of the same type do stack in your inventory.
 
 Open the Server UI and then CTRL + Click on a storage drive in your player inventory, this will place all the Drives in the Server.
 
@@ -90,10 +95,15 @@ Digitized items are stored in Partitions on each Drive (1 Item type per Partitio
 
 There is two ways to create partitions, you can either click the `Quick Partition` button at the bottom of the Server UI. This will create 1 partition for each drive.
 
-Alternativley you can click the `Add Partition` button and this will create a new Partition.
+Alternatively you can click the `Add Partition` button and this will create a new Partition.
 
 Clicking the Blue Edit button on the Partition will open the `Edit Partition` window. This is where you can alter the size of the partition and filter items for the partition.
 
+[NOTE]
+====
+Unfiltered partitions will accept any type of item it wants in a first come first server basis.
+To avoid the system backing up its best to have all items going through the network to have filtered partitions assigned.
+====
 
 == Storing Items
 
@@ -101,12 +111,12 @@ Now to actually automate importing / exporting items on your network.
 ++++
 <br>
 The best way to do this is to use the <a href="/refinedrd/latest/ds/buildings/adapters.html#_storage_connection_adapter">Storage Connection Adapter</a>.
-++++
 
 [NOTE]
 ====
-More adapters can be unlocked in the MAM
+The Storage Adapter can be unlocked in DS tab in the MAM, along with more drives and adapters.
 ====
+++++
 
 === Storage Connection Adapter.
 
@@ -125,11 +135,11 @@ On the left you can see all the available items that you can select to import/ex
 
 Under this you can change whether to import / export items, this will automatically lock the belt connections on the container.
 
-For this exmaple we will import the items from the container to the network. 
+For this example we will import the items from the container to the network. 
 
 Click on the `Import To Network` button at the bottom. Next click on the item you want to import to the network. This will then show on the right hand section.
 
-You will see a toggle switch with `Num` and `Empty` next to them, we want to import all the selected items from the container so click on `>` button.
+You will see a toggle switch with `Num` and `Empty` next to them, this will be pre-selected for you, `< for export` and `> for import`.
 
 [NOTE]
 ====

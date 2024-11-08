@@ -3,35 +3,36 @@
 == How to Start the reactors
 
 === Reactor Foundation UI
-The first step is to make sure the Reactor Foundation is connected to the power grid. Make sure its connected to a power pole and **NOT** a power storage.
+The first step is to make sure the Reactor Foundation is connected to the power grid with at least 100MW. Make sure its connected to a power pole and **NOT** a power storage.
 
-Open the Reactor Foundation UI in game, you will see 5 slots, each slot repersents a reactor in the stack.
+Open the Reactor Foundation UI in game, you will see 5 slots, each slot represents a reactor in the stack.
 
 Slide the slider on each reactor slot to 25% making sure that the **WHITE** line on the slider aligns with 25%
 
-> TODO: Add Image HERE!
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/rp/modularReactor/Reactor_Foundation_start.png[DistributorSetup,300,300]
 
 === Reactor Support Ring UI
 
 ==== Management Tab
-Once thats set you can open the Reactor Support Ring UI in game.
+Once that's set you can open the Reactor Support Ring UI in game.
 
 If the reactor is Offline you will see the Reactor Control panel at the bottom of the UI.
 Click the toggle switches for each Reactor Chamber ( You will hear a locking sound effect for each Reactor Chamber ).
 
-> TODO: Add Image HERE!
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/rp/modularReactor/Reactor_core_start.png[DistributorSetup,300,300]
 
 Once all the Chambers are locked and are showing a green light above each toggle switch. You can then toggle the Lock All toggle switch.
 You will see the middle light show green when all reactors chambers are locked ( Please see below ).
 
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/rp/modularReactor/Chamber_Locks.png[DistributorSetup,300,300]
 
-In the middle of the Control Panel you will see three lights, this is the order they repersent:
+In the middle of the Control Panel you will see three lights, this is the order they represent:
 
-* Top: Fuel
+* Top: Fuel Level is greater then required to start
 * Middle: Locked Reactor Chambers
 * Bottom: Power grid is greater than 100 MW
 
-> TODO: Add Image HERE!
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/rp/modularReactor/Reactor_Core_Status_Lights.png[DistributorSetup,300,300]
 
 You can now switch to the IO Modules Tab in the UI.
 
@@ -39,7 +40,12 @@ You can now switch to the IO Modules Tab in the UI.
 
 Select if the Reactor is to produce Power, Steam or Both using the toggle switches on the right of this Tab.
 
-> Note: At least one of these toggle switches is **REQUIRED**
+image::https://raw.githubusercontent.com/Mrhid6Mods/RRD_Docs/master/images/rp/modularReactor/IO_Modules.png[DistributorSetup,300,300]
+
+[NOTE]
+====
+At least one of these toggle switches is **REQUIRED**
+====
 
 ===== Manual Feed
 
@@ -53,8 +59,6 @@ Once unlocked place the Reactor IO attachment to the Reactor Support Ring.
 
 You will then need to follow the research tree in the **MAM** to allow you to feed **Water** and **Reactor Coolant** into the reactors.
 
-> TODO: Add Image HERE!
-
 You can now switch back to the Management Tab.
 
 ==== Management Tab
@@ -66,4 +70,7 @@ When the gauge is in the green section the light to the right of the Prime Charg
 
 Once all lights are green you're ready to press the Big Red Charge Release button.
 
-> Note: If you press the Charge Release button and nothing happens then you have missed a step.
+[NOTE]
+====
+If you press the Charge Release button and nothing happens then you have missed a step.
+====

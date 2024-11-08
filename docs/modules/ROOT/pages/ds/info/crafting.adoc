@@ -1,0 +1,39 @@
+= Crafting
+
+Digital storage being a network storage system allows for 2 different methods of crafting items
+Both methods require the resources in the network to be able to craft items. and partition space available for the output items.
+
+== Continuous Crafting
+Continuous crafting is exactly like how vanilla Satisfactory works, but without needing conveyors
+
+The Buildings need the Factory Connection Adapter installed and the desired recipe to be set
+
+== On Demand Crafting
+On Demand Crafting will only craft the item(s) when you choose to craft them. 
+
+This requires a few extra devices: Crafting Terminal, Crafting Server, and the correct building with the crafting adapter
+
+[NOTE]
+====
+The building does not need to have a recipe set inside it the crafting adapter will choose the appropriate recipe for the crafting task
+====
+
+On Demand Crafting allows you to auto-craft items sequentially as long as the root items are available and there are enough Crafting Servers available
+I.e. to craft 40 screws from Iron Ingots directly you need a minimum of the following:
+    `A working network`
+    `1 Constructor with a Crafting adapter`
+    `1 Crafting Server`
+    `1 Item Server`
+    `1 drive with 3 partitions for the Iron Ingots, Iron Rods and Screws`
+    `10 Iron Ingots available in the drive storage`
+When you choose to craft the 40 Screws the Crafting Server will first craft the required 10 Iron Rods, then will craft the Screws when it has enough Iron Rods
+the Constructor will automatically be set with the recipe for Iron Rods and then switch to Screws once its finished crafting the rods.
+
+In the recipes tab of the crafting terminal you are able to choose the recipe that you want the on demand crafting system to use for each item
+this allows you to tell it to use alternate recipes if they are available, or correct the network if its trying to use the wrong recipe.
+
+
+== Atomic Crafter
+The Atomic Crafter (Tier 9) is a standalone building that allows you to use the crafting servers to instantly craft items.
+
+It requires Dark Matter Residue to be pumped in via pipes and cannot pull it directly from the network

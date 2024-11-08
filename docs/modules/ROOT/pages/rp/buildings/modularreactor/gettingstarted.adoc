@@ -3,7 +3,7 @@
 * Place Foundation
 * Place Support Ring on Foundation
 * Place Reactor Chambers on Support Ring
-* Add Support Ring Modules (Cooling, Sheilding, IO Ports)
+* Add Support Ring Modules (Cooling, Shielding, IO Ports)
 
 == What each component does
 

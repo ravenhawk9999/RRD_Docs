@@ -37,11 +37,6 @@ Connect the Platform to your power grid to start the growing process.
 == Collect Your First Crops
 You can manually collect your crops as soon as a cycle completes. Remember to grab the Biomass Capsules too. Congratulations!
 
-[WARNING]
-====
-As of Ficsit Farming 4.1.5, manually collecting crops requires drag and dropping them into your inventory. Shift+Clicking will not work.
-====
-
 == Crop Automation
 At this point you may start wondering why the crops aren't leaving the Plot.
 

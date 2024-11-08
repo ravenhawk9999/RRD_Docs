@@ -5,7 +5,7 @@ It can be upgraded with Modules to add more features.
 The Platform can temporarily store inputs and outputs from the plots. (Plots have their own storage like any other Building)
 
 == Farming Platform MK1
-* Power Usage: 4 MW
+* Power Usage: 10 MW
 * Plot Slots: 1
 * Conveyor Input: 1
 * Conveyor Output: 1
@@ -18,7 +18,7 @@ The Platform can temporarily store inputs and outputs from the plots. (Plots hav
 ** 16x Reinforced Iron Plate
 
 == Farming Platform MK2
-* Power Usage: 16 MW
+* Power Usage: 30 MW
 * Plot Slots: 4
 * Conveyor Input: 1
 * Conveyor Output: 1
@@ -31,7 +31,7 @@ The Platform can temporarily store inputs and outputs from the plots. (Plots hav
 ** 20x Modular Frame
 
 == Farming Platform MK3
-* Power Usage: 28 MW
+* Power Usage: 50 MW
 * Plot Slots: 9
 * Conveyor Input: 1
 * Conveyor Output: 1

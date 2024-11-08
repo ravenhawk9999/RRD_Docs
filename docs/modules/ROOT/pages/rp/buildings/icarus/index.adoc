@@ -2,8 +2,6 @@
 
 A new age of power has been developed by the Refined R&D department, allowing heat from concentrated sun rays to boil water into a highly compressed steam.
 
-The program was terminated because the Ficsit engineers had to come down to MASSAGE-2(A-B)b and fix the Dyson Sphere.
-
 == Introduction
 
 [NOTE]
@@ -11,13 +9,9 @@ The program was terminated because the Ficsit engineers had to come down to MASS
 Project Icarus is end-game content.
 ====
 
-As the Dyson Sphere Program was one of the first staple massive buildings in Refined Power, it was introduced to the game around Update2 / Update3.
+With the Icarus system you can Repair and maintain damaged Space stations by sending repair kits to them, once rebuilt they will deflect solar energy to the planets surface.
 
-The project didn't have any ability to use some of the new features that the game offered in those updates, e.g. pipes and space elevator parts.
-
-Due to the number of issues encountered with Dyson Sphere, the Refined R&D Team decided it was not worth updating and started a new Project called Icarus.
-
-Icarus has many similar traits to the Dyson Sphere but with an elevated feel.
+you can then use that energy to generate Compressed Steam to run the Super HV Turbines.
 
 == Getting Started
 
@@ -29,13 +23,13 @@ You can send the different Repair kits to the deflector in space using an Icarus
 
 
 === Icarus Receiver
-It will become active once the Ray deflector has enough repair kits and is green in the Icarus Reciever UI.
+It will become active once the Ray deflector has enough repair kits and is green in the Icarus Receiver UI.
 
 Once activated, Water can be piped into the building and converted to Compressed Steam.
 Compressed Steam can then be piped to the Super HV Turbines.
 
 The building only works in the daytime and will go into standby mode at night.
-It is advised that power storage is used to handle the nighttime period.
+It is advised that power storage is used to handle the night time period.
 
 === Icarus Rail Gun
 

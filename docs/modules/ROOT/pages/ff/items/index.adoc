@@ -15,8 +15,8 @@
 * Potato Seed
 * Wheat
 * Wheat Seed
-* Myzelium
-* Myzelium Seed
+* Mycelium
+* Mycelium Seed
 * Apple
 * Apple Seed
 * Banana

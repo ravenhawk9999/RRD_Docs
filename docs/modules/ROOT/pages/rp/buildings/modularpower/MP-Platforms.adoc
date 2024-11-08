@@ -41,3 +41,7 @@ These platforms are used for the Modular Power Turbines & Generators.
 
 === Cooling Platform:
 These platforms are used for the Co2 Chimney or Steam Chimney.
+
+=== Super Converter Platform
+These are unlocked at Tier 7
+Although these are primarily used for the Super HV turbines and Generators you can put 3 of the normal turbine/generators on one platform.

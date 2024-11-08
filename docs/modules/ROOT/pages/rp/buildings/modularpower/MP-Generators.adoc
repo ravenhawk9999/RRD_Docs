@@ -22,9 +22,7 @@ Generators are built on the Converter Platform and can only function if attached
 15x High-Speed Connector
 
 |Maximum Power Output
-|150 MW
-|300 MW
-|500 MW
+
 
 |Required RPM
 |10 000
@@ -53,7 +51,26 @@ Generators are built on the Converter Platform and can only function if attached
 |200x Computer +
 100x Heavy Modular Frame +
 50x High-Speed Connector +
-250x Alclad Aluminum Sheets
+250x Alclad Aluminium Sheets
 |===
 
 *{sp}Within the milestones, multiple Refined Power buildings are unlocked.
+
+== Combinations 
+Generator Combinations with the Turbines running at max RPM
+
+|===
+| |LV Generator |MV Generator |HV Generator
+
+|Mk. 1 turbine
+|150MW
+|181.9MW
+|176
+
+|Mk. 2 turbine
+|150 MW
+|300 MW
+|500 MW
+|===
+
+*{sp}Turbine rpm MK.1 10,000 Mk.2 25,000

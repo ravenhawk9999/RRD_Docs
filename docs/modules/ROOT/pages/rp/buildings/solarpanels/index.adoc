@@ -18,7 +18,7 @@ If the panels are obstructed, they will reduce the power production.
 40x Photovoltaic Cell +
 25x Steel Pipe +
 20x Cable +
-100x Alclad Aluminum Sheet +
+100x Alclad Aluminium Sheet +
 5x Computer
 |3x Concrete +
 4x Photovoltaic Cell
@@ -52,7 +52,7 @@ If the panels are obstructed, they will reduce the power production.
 |100x Photovoltaic Cell +
 500x Quickwire +
 50x Heavy Modular Frame +
-200x Alclad Aluminum Sheets
+200x Alclad Aluminium Sheets
 | - (5x Ficsit Coupon)
 |===
 

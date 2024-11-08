@@ -1,0 +1,10 @@
+= Water Dam
+
+== Water Dam Mechanics
+Water turbines can only be placed on dedicated nodes in high volume waterfalls, with each of those giving a different amount of power.
+
+You can also enable the Water Output in the GUI to extract water at the cost of the Dams Power Production. there are pipe outputs on the ends of the dams.
+
+== Building Information
+
+> TODO: Add Building Information here

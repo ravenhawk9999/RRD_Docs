@@ -3,7 +3,8 @@
 Harness the power of Reactions, Refined Power offers clean-ish power generation by using reactors.
 
 ## Micro Reactor
+<a href="/refinedrd/latest/rp/buildings/reactors/Micro-Reactor.html#_Micro_Reactor">Micro Reactor</a>
 Micro Reactor
 
-## Arc Reactor
-Arc Reactor
+## Modular Reactor
+<a href="/refinedrd/latest/rp/buildings/reactors/modularreactorcore.html#_Micro_Reactor">Micro Reactor</a>

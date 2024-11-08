@@ -6,14 +6,17 @@ All network-attached devices require power, which is where the Network Power Ada
 
 The Network Power Adapter serves as the intermediary, ensuring that the power supplied from the electrical grid is converted into the precise form needed to sustain the network. 
 
-When establishing a new network, a critical step involves manually assigning a network identifier known as the Network ID. 
-Users accomplish this task effortlessly through the user interface, clicking the Network Information button to select the specific Network ID.
+When establishing a new network, you must manually assign the Network to the Network Power Adapter after the network has been made in the Distributor
+This can be done using the UI and clicking link next to the Network you want to assign it to.
 
-If you are starting a new Network, you must manually assign the Network ID.
-This can be done using the UI and clicking the Network Information button.
+[NOTE]
+====
+The Network Power Adapter must be connected to the Network Distributor on the same network using cables/poles, The Wireless Tower will not transmit power from the Power Adaptor to the Distributor
+however the Network Distributor will supply network power and connection to other adapters via Wireless Towers
+====
 
-A noteworthy feature comes into play once the initial configuration is complete and a Network ID is assigned. 
-Subsequent Power Adapters placed on the network can assign themselves the same Network ID automatically. 
+A noteworthy feature comes into play once the initial configuration is complete and a Network is assigned. 
+Subsequent Power Adapters placed on the network can assign themselves the same Network automatically. 
 This automation streamlines the setup process, eliminating the need for manual intervention and allowing for the seamless integration of new devices into the existing network.
 
 == Daisy Chaining

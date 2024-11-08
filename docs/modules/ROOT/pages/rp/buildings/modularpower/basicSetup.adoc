@@ -84,6 +84,12 @@ The Co2 Chimney has to be placed on a **Cooling Platform**.
 The Low Pressure Steam from Turbines also needs to be dealt with. The **Steam Cooling Tower** simply vents it into the air. +
 It has to be placed on a Cooling Platform too. Check xref:rp/buildings/modularpower/MP-Chimneys.adoc[Chimneys] for more about the Cooling Tower and the Co2 Chimney.
 
+[NOTE]
+====
+you can also reuse the steam by refining it back into water.
+Although this does consume more power and space it allows you to create a closed loop water/steam system for use when you are far away from a water source
+====
+
 == Final Notes
 
 Now for some final advices.

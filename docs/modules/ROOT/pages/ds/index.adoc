@@ -34,3 +34,4 @@ What this mod will not add:
 
 * Vehicles
 * An advanced AI
+* spooder repellent 

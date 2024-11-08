@@ -1,23 +1,25 @@
 = Micro Reactor
 
-## Building Info
+== Building Info
 
 Micro Reactor is capable of generating 1GW of power with 100 Reactor cores. With no waste!
 
-**Reactor must be filled with at least 70 cores before the reactor can heat up.** It will only produce power when the temperature reaches the maximum.
+The Micro Reactor only produces power when it needs to.
 
-## Building Cost
+== Building Cost
 
-40 Supercomputers, 80 Alclad Aluminum sheets & 60 A.I. Limiters
+40 Supercomputers, 80 Alclad Aluminium sheets & 60 A.I. Limiters
 
-=== Consumption Rates
+== Consumption Rates
 The Micro Reactor can be fed with the following items:
 
 |===
 | Item   | Consumption rate per minute
 | Nuclear Fuel Rods|0.08 
 | Plutonium|0.04 
-| Advanced Reactor Cores|0.05 
+| DT Reactor Cores|0.5
+| Deanorium Reactor Cores|0.125
+| Ficsonium Fuel Rods|2
 |===
 
 image::https://github.com/Mrhid6Mods/RRD_Docs/raw/master/images/eqn1.png[]

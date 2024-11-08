@@ -14,11 +14,11 @@ The harvested item will be moved to the Platform Storage.
 Can be placed on every plot.
 ====
 
-** Power Usage: 12 MW
+** Power Usage: 10 MW
 ** 20x Cable
 ** 4x Motor
 ** 20x Modular Frame
-** 16x Encased Industrial Beam
+** 25x Encased Industrial Beam
 
 == Irrigation Module
 Sprays given fluid to the seeds.
@@ -31,9 +31,10 @@ Sprays given fluid to the seeds.
 Can be placed on every plot.
 ====
 
-** Power Usage: 2 MW
-** 16x Copper Sheet
-** 8x Steel Pipe
+** Power Usage: 5 MW
+** 25x Copper Sheet
+** 15x Steel Pipe
+** 10x Cable
 
 == Greenhouse Module
 Provides better growing conditions for more efficient farms.
@@ -46,6 +47,7 @@ In other words, it reduces the time between production ticks.
 Can be placed on every plot **except tree plots**
 ====
 
-** Power Usage: 30 MW
+** Power Usage: 5 MW
 ** 50x Iron Plate
 ** 12x Modular Frame
+** 30x Silica

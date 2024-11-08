@@ -1,6 +1,6 @@
 = Refined R&D Mods
 
-Refined R&D mods creates Satisfatory mods to improve gameplay and add new exciting content to the game.
+Refined R&D mods creates Satisfactory mods to improve gameplay and add new exciting content to the game.
 
 We currently maintain the following mods:
 

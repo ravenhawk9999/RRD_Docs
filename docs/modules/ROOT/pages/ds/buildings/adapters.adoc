@@ -4,15 +4,21 @@ Mostly all adapters have the ability to snap to buildings (Furnaces, Constructor
 
 The only exceptions are the Power Adapter and Pipe Connection Adapter which are standalone buildings.
 
+[NOTE]
+====
+The Adapters are found in the DS tab of the MAM
+====
 
 == Storage Connection Adapter
 The storage connection adapter can snap to storage contains and can import or export items to/from the network.
 
 The storage connection adapter adds a new tab to the containers UI and the tab is where you configure which items can be imported/exported.
 
+
+
 [NOTE]
 ====
-The storage connection adapter allows you to specify 6 items
+The storage connection adapter allows you to specify 6 items to import or export
 ====
 
 
@@ -24,6 +30,7 @@ You can select one fluid item to import/export to/from the network.
 [NOTE]
 ====
 The pipe connection adapter allows you to specify 1 item
+If setting an amount in the task conditions you need to specify the amount of fluid or gas in Litres `1000(L) = 1m3`
 ====
 
 == Resource Adapter
@@ -64,6 +71,6 @@ Export Iron Rods when there is less then 100 in the network: `< 100`
 
 == Crafting Adapter
 
-The Carfting Adapter can snap to factory buildings (Furnaces, Constructors, Assemblers, etc.) and allows the ability to on-demand craft items.
+The Crafting Adapter can snap to factory buildings (Furnaces, Constructors, Assemblers, etc.) and allows the ability to on-demand craft items.
 
 The adapter will auto assign the correct recipe to craft when the crafting server requests it.

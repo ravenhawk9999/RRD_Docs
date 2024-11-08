@@ -7,16 +7,16 @@
 This Building is outdated! we reworked how it works.
 ====
 
-The Seed Extractor can convert Jar of Dird or a Crop into Seeds.
+The Seed Extractor can convert Jar of Dirt or a Crop into Seeds.
 Important on this Step is that you gain multiple Seeds OR a higher Count of Seed from an Item.
-A convertion list can be viewed in the Seed Extractor Menu of the Building.
+A conversion list can be viewed in the Seed Extractor Menu of the Building.
 
-* Power Usage: 20 MW
+* Power Usage: 25 MW
 * Conveyor Input: 1
 * Conveyor Output: 1
 * Fluid Input: 0
 * Fluid Output: 0
-* Space in Foundations : 1x4,5
+* Space in Foundations : 1x2 (rounded)
 * Build Cost:
 ** 20x Modular Frame
 ** 18x Rotor
@@ -31,7 +31,7 @@ To collect Doggos for the House you need to pet them, then pick them up with an 
 * Conveyor Output: 1
 * Fluid Input: 1
 * Fluid Output: 0
-* Space in Foundations : 4.2x6.2
+* Space in Foundations (rounded) : 7x4
 * Build Cost:
 ** 16x Modular Frame
 ** 20x Concrete
@@ -46,7 +46,7 @@ In general it takes crops and water for this process
 * Conveyor Output: 1
 * Fluid Input: 1
 * Fluid Output: 1
-* Space in Foundations : 1.5x2
+* Space in Foundations (Rounded): 2x2
 * Build Cost:
 ** 20x Steel Beam
 ** 20x Cable
@@ -54,20 +54,16 @@ In general it takes crops and water for this process
 
 ## Composter
 
-[WARNING]
-====
-This Building is outdated! we reworked how it works.
-====
+Converts all Organic material plus water into Fertilizer.
 
-Converts any Biomass and Water into Fertilizer.
-The Recipe Info List can be viewed in the menu of the building.
+Fertiliser can be used in the Plots or converted to Biomass in a Refinery
 
-* Power Usage: 16 MW
+* Power Usage: 10 MW
 * Conveyor Input: 1
 * Conveyor Output: 0
 * Fluid Input: 1
 * Fluid Output: 1
-* Space in Foundations : 1x2.5
+* Space in Foundations (Rounded): 1x3
 * Build Cost:
 ** 12x Modular Frame
 ** 20x Cable

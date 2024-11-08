@@ -1,10 +1,5 @@
 = Farming Plots
 
-[WARNING]
-====
-This Page is outdated!
-====
-
 Farming Plots need to be placed on a Farming Platform.
 
 [TIP]
@@ -22,9 +17,6 @@ Farming Plots need to be placed on a Farming Platform.
 * Potato Seed
 * Yosse Berry Seed
 * Wheat Seed
-
-== Flower Plot
-* Flower Seed
 
 == Mycelia Plot
 * Mycelia Seed

@@ -1,0 +1,40 @@
+= Drives
+
+There are 3 categories of drives: Item, Fluid and Gas, each with different sizes.
+The different Drives can only go into their respective servers
+
+The Tier 3 milestone lets you unlock the base drives, the additional drive unlocks are under the DS tab of the MAM
+
+[NOTE]
+====
+unfiltered partitions allow any item to fill that partition, best practice: have all partitions filtered for desired item
+
+There may be a moment between creating the partition on an existing network and setting the partition filter where the new partition starts filling up
+once the partition filter is set the items will go into the servers buffer and allow the filtered item to start filling the drive
+====
+
+== Item Drives
+Drive sizes are the following: 256, 512, 1K, 2K, 4k, 8k and 16K
+
+The 256 - 2k drives can hold 4 partitions Max, while the 4k, 8k and 16k drives can hold 8 total partitions.
+
+
+== Fluid Drives
+Drive sizes are the following: 10m3, 20m3, 40m3 and 60m3
+
+The 10m3 drive can hold 4 partitions, the other 3 can all hold 8 partitions
+
+[NOTE]
+====
+In the partitions fluids will display as Litres i.e. 10m3 drive with one full water partition will display as 10,000 `1000(L) per m3`
+====
+
+== Gas Drives
+Drive sizes are the following: 40m3 and 60m3
+
+Both Gas Drives can hold 8 partitions
+
+[NOTE]
+====
+Gas will display the same as fluids in the partitions
+====

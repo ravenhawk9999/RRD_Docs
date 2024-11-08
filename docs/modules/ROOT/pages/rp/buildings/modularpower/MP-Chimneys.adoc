@@ -47,3 +47,9 @@ Modular Power Chimneys are used to vent CO₂ and Steam from heaters and turbine
 |===
 
 *{sp}Both buildings are in the same milestone. Within the milestone, multiple Refined Power buildings are unlocked.
+
+[NOTE]
+====
+you can also reuse the steam by refining it back into water if you replace the steam chimney with a refinery with the steam recipe, you can set the clock so you get an exact water in/out ratio of 1:1
+Although this does consume more power and space it allows you to create a closed loop water/steam system for use when you are far away from a water source
+====

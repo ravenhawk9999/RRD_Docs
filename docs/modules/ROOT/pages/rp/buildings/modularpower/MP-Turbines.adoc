@@ -12,7 +12,7 @@ They have to be placed on Converter Platforms.
 == Building Information
 
 |===
-| |Mk. 1 |Mk. 2
+| |Mk. 1 |Mk. 2 |Super HV 
 
 |Building Cost
 |20x Reinforced Iron Plate +
@@ -21,31 +21,37 @@ They have to be placed on Converter Platforms.
 |6x Heavy Modular Frame +
 10x Motor +
 4x Computer
+|
 
 |Maximum RPM
 |10 000
 |25 000
+|
 
 |Steam Consumption +
 (High Pressure)
 |60 m³
 |120 m³
+|300 m³ (Compressed Steam)
+
 
 |Steam Production +
 (Low Pressure)
 |60 m³
 |120 m³
+|450 m³
 
 |===
 
 == Milestones
 
 |===
-| |Mk. 1 |Mk. 2
+| |Mk. 1 |Mk. 2 |Super HV 
 
 |Available with
 |Tier 3
 |Tier 5
+|Tier 7
 
 |Research Cost*
 |25x Reinforced Iron Plate +
@@ -55,6 +61,7 @@ They have to be placed on Converter Platforms.
 |100x Plastic +
 50x Rubber +
 500x Copper Sheets
+|
 |===
 
 *{sp}Within the milestones, multiple Refined Power buildings are unlocked.

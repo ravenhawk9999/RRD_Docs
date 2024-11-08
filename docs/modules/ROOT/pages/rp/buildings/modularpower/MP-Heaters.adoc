@@ -38,8 +38,8 @@ The heater will produce CO₂, which needs to be handled by either venting throu
 |Leaves, Wood, Mycelia, Alien Carapace, Fabric, Alien Organs,
 Biomass, Solid Biofuel, Packaged Biofuel, Flower
 |Coal, Petroleum Coke, Compacted Coal
-|Biofuel, Fuel, Turbofuel
-|Nuclear Fuel Rods, Plutonium, Advanced Reactor Cores
+|Biofuel, Fuel, Turbofuel, Methane, Rocket Fuel, Ionized Fuel,
+|Nuclear Fuel Rods, Plutonium, DT Reactor Cores, Deanorium Reactor Cores, Ficsonium Fuel Rods
 |===
 
 *{sp}For consumption rates, produced heat and CO₂ see tables below
@@ -71,7 +71,7 @@ Biomass, Solid Biofuel, Packaged Biofuel, Flower
 |200x Computer +
 100x Heavy Modular Frame +
 50x High-Speed Connector +
-250x Alclad Aluminum Sheets
+250x Alclad Aluminium Sheets
 |===
 
 *{sp}Within the milestones, multiple Refined Power buildings are unlocked.
@@ -93,7 +93,6 @@ The biomass heater can produce 500{nbsp}℃ heat and can be fed with the followi
 | Biomass|20|20|30{nbsp}m³
 | Solid Biofuel|30|8|30{nbsp}m³
 | Packaged Biofuel|35|4.8|45{nbsp}m³
-| Flower|0.25|36|45{nbsp}m³
 |===
 
 === Coal Heater
@@ -113,6 +112,9 @@ The Solution heater can produce 750{nbsp}℃ heat and can be fed with the follow
 | Biofuel|25|12{nbsp}m³|30{nbsp}m³
 | Fuel|30|12{nbsp}m³|30{nbsp}m³
 | Turbofuel|35|4{nbsp}m³|45{nbsp}m³
+| Methane |35|6{nbsp}m³|30{nbsp}m³
+| Rocketfuel |40|10{nbsp}m³|120{nbsp}m³
+| Ionised Fuel|50|6{nbsp}m³|90{nbsp}m³
 |===
 
 === Nuclear Heater
@@ -122,5 +124,7 @@ The Nuclear heater can produce 2{nbsp}000{nbsp}℃ heat and can be fed with the 
 | Item   | Heat / Cycle | Item consumption rate | Type of waste | Waste production rate
 | Nuclear Fuel Rods|2{nbsp}000|0.125|Nuclear Waste (Vanilla)| 6.25
 | Plutonium|2{nbsp}000|0.0625|Plutonium Waste (Vanilla)| 0.625
-| Advanced Reactor Cores|2{nbsp}000|0.125|Advanced Reactor Casing| 0.125
+| DT Reactor Core|2{nbsp}500|0.5|Advanced Reactor Cores|0.5
+| Deanorium Reactor Core|2{nbsp}500|0.125|Advanced Reactor Cores|0.125
+| Ficsonium Fuel Rods|2{nbsp}500|0.5|None|0
 |===

@@ -1,1 +1,63 @@
-= Buildings
+= Wind Turbines
+
+== Wind Turbine Mechanics
+Power production is dependent on wind speed and efficiency, which is depending on the height at which the turbine is placed. Maximum efficiency will be reached at around 300 m and above.
+
+The wind turbines have an area effect. Any other wind turbine within this area will drop the power output to 0 MW. +
+Press _R_ to visualize the area. It will turn red if there is another turbine within it. +
+The area is only relevant for turbines of the same type, e.g. a Mk. 1 and a Mk. 2 wind turbine can be placed next to each other.
+
+Turbines can be daisy-chained, each allows for two power lines.
+
+If you don't like the fluctuation of the power output, you can disable that in the main menu. **Important:** The turbines will then be limited to half of the maximum output.
+
+== Building Information
+
+|===
+| |Mk. 1 |Mk. 2 |Mk. 3
+
+|Building Cost
+|20x Iron Plate +
+30x Iron Rod
+|20x Concrete +
+20x Steel Pipe +
+10x Encased Industrial Beam +
+5x Motor
+|50x Fabric +
+100x Cable +
+40x Alclad Aluminium Sheets +
+50x Heavy Modular Frames
+
+|Maximum Power Output
+|30 MW
+|100 MW
+|150 MW
+
+|Area Radius
+|3 foundations*
+|6.5 foundations
+|9.5 foundations
+|===
+
+== Milestones
+
+|===
+| |Mk. 1 |Mk. 2 |Mk. 3
+
+|Available with
+|Tier 1
+|Tier 5
+|Tier 7
+
+|Research Cost
+|200x Iron Plate +
+150x Iron Rod
+|200x Encased Industrial Beam +
+500x Quickwire +
+50x Heavy Modular Frame
+|200x Heat Sink +
+150x High-Speed Connector +
+50x Heavy Modular Frame
+|===
+
+*{sp}Advice: Placing both turbines on the centre of their foundations is slightly too close.

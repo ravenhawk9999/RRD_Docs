@@ -1,7 +1,7 @@
 = Schematics 
 
 == Tier 2
-## Basic Farmer - Building
+=== Basic Farmer - Building
 * Milestone Cost
 ** 200x Cable
 ** 500x Wire
@@ -13,7 +13,7 @@
 ** Flower Plot
 ** Scanner upgrade: Jar of Dirt
 
-## Basic Farmer - Crops
+=== Basic Farmer - Crops
 * Milestone Cost
 ** 100x Jar of Dirt
 ** 200x Wire
@@ -21,34 +21,32 @@
 * Reward
 ** Carrot Seed
 ** Carrot
-** Flower
-** Flower Seed
 ** Potato
 ** Potato Seed
 ** Wheat
 ** Wheat Seed
 
 == Tier 3
-## Apprentice Farmer - Buildings
+=== Apprentice Farmer - Buildings
 * Milestone Cost
 ** 100x Carrot
 ** 50x Modular Frame
 ** 150x Reinforced Iron Plate
 ** 500x Jar of Dirt
 * Reward
-** Famring Platform MK2
+** Farming Platform MK2
 ** Irrigation Module
 ** Seed Extractor
 ** Tree Plot
 
-## Apprentice Famrer - Crop
+=== Apprentice Farmer - Crop
 * Milestone Cost
 ** 100x Wheat
 ** 100x Carrot
 ** 100x Potato
 ** 500x Jar of Dirt
 * Reward
-** Myzelium
+** Mycelium
 ** Apple
 ** Banana
 ** Corn
@@ -56,7 +54,7 @@
 ** Pumpkin
 ** Yosse Berry
 
-## Enriched Crops 1
+=== Enriched Crops 1
 * Milestone Cost
 ** 25x Pumpkin
 ** 100x Cotton
@@ -66,9 +64,8 @@
 ** Potato
 ** Pumpkin
 ** Wheat
-** Flower
 
-## Enriched Crops 2
+=== Enriched Crops 2
 * Milestone Cost
 ** 25x Pumpkin
 ** 100x Cotton
@@ -78,11 +75,11 @@
 ** Banana
 ** Corn
 ** Cotton
-** Myzelium
+** Mycelium
 ** Yosse Berry
 
 == Tier 4
-## Rancher
+=== Rancher
 * Milestone Cost
 ** 50x Apple
 ** 100x Modular Frame
@@ -92,22 +89,21 @@
 ** Doggo House
 ** Doggo Cage (Empty)
 
-## Sous Chef
+=== Sous Chef
 * Milestone Cost
 ** 1000x Wheat
 ** 150x Steel Beam
 ** 500x Cable
 ** 100x Modular Frame
 * Reward
-** Gewebe
-** Yosse Mudffin
+** Yosse Muffin
 ** Cooking Hub
 ** Doggo Chow
 ** Corn Muffin
 ** Bread
 ** Wheat Muffin
 
-## Fertiliser Buildings
+=== Fertiliser Buildings
 * Milestone Cost
 ** 100x Wheat
 ** 250x Steel Beam
@@ -119,7 +115,7 @@
 ** Mycelia Plot
 ** Harvester Module
 
-## Fertilised Crops 1
+=== Fertilised Crops 1
 * Milestone Cost
 ** 200x Carrot
 ** 200x Potato
@@ -130,9 +126,8 @@
 ** Potato
 ** Pumpkin
 ** Wheat
-** Flower
 
-## Fertilised Crops 2
+=== Fertilised Crops 2
 * Milestone Cost
 ** 150x Cotton
 ** 200x Banana
@@ -142,13 +137,13 @@
 ** Apple
 ** Banana
 ** Corn
-** Myzelium
+** Mycelium
 ** Yosse Berry
 
 == Tier 5
-## Expert Farmer
+=== Expert Farmer
 * Milestone Cost
-** 100x Encased Industiral Beam
+** 100x Encased Industrial Beam
 ** 100x Heavy Modular Frame
 ** 25x Motor
 ** 1000x Iron Plate
@@ -156,7 +151,7 @@
 ** Greenhouse Module
 
 == Tier 6
-## Head Chef
+=== Head Chef
 * Milestone Cost
 ** 100x Doggo Chow
 ** 250x Bread
@@ -169,11 +164,11 @@
 ** Pumpkin Pie
 
 == Tier 7
-## Master Farmer
+=== Master Farmer
 * Milestone Cost
 ** 200x Heavy Modular Frame
 ** 100x Computer
-** 200x Alclad Aluminum Sheet
+** 200x Alclad Aluminium Sheet
 * Reward
 ** Farming Platform MK3
 ** Power Shard

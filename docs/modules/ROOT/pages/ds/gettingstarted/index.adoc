@@ -2,7 +2,7 @@
 
 == First Steps
 
-The first steps to getting started with Digital Storage is to unlock the first Milestone (Basic Networks) in the HUB.
+The first steps to getting started with Digital Storage is to unlock the first Milestone (Basic Networks) in the HUB at Tier 3.
 
 This will unlock the first buildings and items in the mod.
 
@@ -83,7 +83,7 @@ For-Example:
 
 ====
 
-The *Server Rack* has a network connection and will propergate the connection to all snapped servers in the rack.
+The *Server Rack* has a network connection and will propagate the connection to all snapped servers in the rack.
 
 === Network Storage Drives
 

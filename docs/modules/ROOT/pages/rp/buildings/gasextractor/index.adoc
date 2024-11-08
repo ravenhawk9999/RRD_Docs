@@ -1,0 +1,5 @@
+=Gas Generator
+
+The Gas Generator produces Toxic Gas from the Gas Pillars. this can be converted to Methane Gas for use in the Solution Heater
+
+The Generator consumes 40mw of power to produce 12{nbsp}m³ of Toxic Gas.
