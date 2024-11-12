@@ -20,12 +20,12 @@ The building does not need to have a recipe set inside it the crafting adapter w
 
 On Demand Crafting allows you to auto-craft items sequentially as long as the root items are available and there are enough Crafting Servers available
 I.e. to craft 40 screws from Iron Ingots directly you need a minimum of the following:
-    `A working network`
-    `1 Constructor with a Crafting adapter`
-    `1 Crafting Server`
-    `1 Item Server`
-    `1 drive with 3 partitions for the Iron Ingots, Iron Rods and Screws`
-    `10 Iron Ingots available in the drive storage`
+* A working network
+* 1 Constructor with a Crafting adapter
+* 1 Crafting Server
+* 1 Item Server
+* 1 drive with 3 partitions for the Iron Ingots, Iron Rods and Screws
+* 10 Iron Ingots available in the drive storage
 When you choose to craft the 40 Screws the Crafting Server will first craft the required 10 Iron Rods, then will craft the Screws when it has enough Iron Rods
 the Constructor will automatically be set with the recipe for Iron Rods and then switch to Screws once its finished crafting the rods.
 

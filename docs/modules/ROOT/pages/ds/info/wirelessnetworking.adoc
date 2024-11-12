@@ -9,7 +9,7 @@ linked towers have unlimited range between them but an increase of power draw de
 
 Wireless Towers also act as a Wireless Access point for the Wireless Tablet with Broadcasting range of 40m and a max range of 490M with the use of Wireless Range Extenders
 
-= Wireless Access Point
+== Wireless Access Point
 The Wireless Access Point allows for the Wireless Tablet to connect to the network at a limited range.
 
 [NOTE]
@@ -17,7 +17,7 @@ The Wireless Access Point allows for the Wireless Tablet to connect to the netwo
 The upgrades for this is found in the DS tab of the MAM
 ====
 
-= Wireless Tablet
+== Wireless Tablet
 The Wireless Tablet acts like a portable Storage Terminal for viewing and retrieving items from the connected network.
 
 The filter tab allows you to extract items from the network directly into your inventory as long as the Tablet is in range of the network
@@ -28,7 +28,7 @@ you can set the item to go into a slot you choose and have a full stack or an ex
 If there are more items in that slot i.e. 500 screws when you have a set amount of 100, the excess will be transferred back into the network as long as there is space.
 ====
 
-= Wireless Range Extenders
+== Wireless Range Extenders
 Increases the range the Wireless Tower can broadcast the network to the Wireless Tablet.
 
 [NOTE]

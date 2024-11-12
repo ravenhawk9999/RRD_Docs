@@ -2,9 +2,11 @@
 
 Harness the power of Reactions, Refined Power offers clean-ish power generation by using reactors.
 
+There are two types of reactors in the game
+
 ## Micro Reactor
-<a href="/refinedrd/latest/rp/buildings/reactors/Micro-Reactor.html#_Micro_Reactor">Micro Reactor</a>
-Micro Reactor
+The small xref:/rp/buildings/reactors/Micro-Reactor.adoc[Micro Reactor] outputs 1GW
 
 ## Modular Reactor
-<a href="/refinedrd/latest/rp/buildings/reactors/modularreactorcore.html#_Micro_Reactor">Micro Reactor</a>
+xref:rp/buildings/modularreactor/modularreactor.adoc[Modular Reactors] are like the Modular generators in which you can build a reactor in several configurations.
+The Modular Reactor provides power, compressed steam, or both.

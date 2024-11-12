@@ -2,15 +2,15 @@
 
 ## Resources:
 * Jar of Dirt
+* Jar of Bog Earth
+* Jar of Peat Soil
 
 ## Fluids:
-* Fertilised Fluid
+* Fertilizer
 
 ## Parts:
 * Carrot Seed
 * Carrot
-* Flower
-* Flower Seed
 * Potato
 * Potato Seed
 * Wheat

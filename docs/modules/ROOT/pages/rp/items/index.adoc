@@ -1,7 +1,8 @@
 = Items
 
 ## Resources:
-### Element 65
+### Thorium
+### Deanium (fluid)
 
 ## Parts:
 ### Photovoltaic Cells
@@ -10,9 +11,11 @@
 ### Reinforced Carbon-Carbon
 
 ## Fluids:
-### Refined E65
-### Unfiltered Deuterium
+### Concentrated Deanium
+### Deanorium
+### Liquid Tritium
 ### Liquid Deuterium
+### DT Blend
 ### CO₂
 ### High Pressure Steam
 ### Low Pressure Steam

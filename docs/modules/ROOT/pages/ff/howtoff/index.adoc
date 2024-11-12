@@ -24,7 +24,7 @@ Different dirt types produce different seeds.
 ====
 
 == Build Your First Farm
-Unlock the *_Basic Farmer - Crops_* Milestone in Tier 2 to be able to select crops later.
+Unlock the *_Basic Farmer Crops_* Milestone in Tier 2 to be able to select crops later.
 
 Build a *_Farming Platform Mk1_* first. Place a *_Crop Plot_* onto the Platform.
 
