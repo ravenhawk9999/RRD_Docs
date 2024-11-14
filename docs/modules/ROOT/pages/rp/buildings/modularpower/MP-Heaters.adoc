@@ -51,7 +51,7 @@ Biomass, Solid Biofuel, Packaged Biofuel, Flower
 
 |Available with
 |Tier 3
-|Tier 5
+|Tier 3
 |Tier 6
 |Tier 7
 
